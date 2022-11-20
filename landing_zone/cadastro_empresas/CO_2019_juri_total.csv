@@ -1,0 +1,81 @@
+codigo_cnae,atividade,natureza_juridica,total_empresas,pessoal_ocupado_total,pessoal_ocupado_assalariado,salario_outras_rem
+A,"Agricultura, pecuária, produção florestal, pesca e aquicultura",Total,7549,78051,65559,2308222.891
+A,"Agricultura, pecuária, produção florestal, pesca e aquicultura",Administração pública,,,,
+A,"Agricultura, pecuária, produção florestal, pesca e aquicultura",Entidades empresariais,7450,77675,65292,2296077.39
+A,"Agricultura, pecuária, produção florestal, pesca e aquicultura",Entidades sem fins lucrativos,99,376,267,12145.501
+B,Indústrias extrativas,Total,1068,11419,9927,406950.682
+B,Indústrias extrativas,Administração pública,1,,,
+B,Indústrias extrativas,Entidades empresariais,1067,,,
+B,Indústrias extrativas,Entidades sem fins lucrativos,,,,
+C,Indústrias de transformação,Total,28471,367172,330736,10194679.634
+C,Indústrias de transformação,Administração pública,,,,
+C,Indústrias de transformação,Entidades empresariais,28449,,,
+C,Indústrias de transformação,Entidades sem fins lucrativos,22,,,
+D,Eletricidade e gás,Total,344,15169,14601,2140625.217
+D,Eletricidade e gás,Administração pública,,,,
+D,Eletricidade e gás,Entidades empresariais,340,14339,13777,1923693.33
+D,Eletricidade e gás,Entidades sem fins lucrativos,4,830,824,216931.887
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Total,1200,32036,30595,1696887.686
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Administração pública,30,,,
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Entidades empresariais,1162,30526,29086,1636790.564
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Entidades sem fins lucrativos,8,,,
+F,Construção,Total,23571,174792,142735,3914354.32
+F,Construção,Administração pública,2,,,
+F,Construção,Entidades empresariais,23553,174720,142666,3909348.897
+F,Construção,Entidades sem fins lucrativos,16,,,
+G,Comércio; reparação de veículos automotores e motocicletas,Total,159149,897664,696839,16547862.551
+G,Comércio; reparação de veículos automotores e motocicletas,Administração pública,1,,,
+G,Comércio; reparação de veículos automotores e motocicletas,Entidades empresariais,159131,897612,696802,16546851.181
+G,Comércio; reparação de veículos automotores e motocicletas,Entidades sem fins lucrativos,17,,,
+H,"Transporte, armazenagem e correio",Total,19662,268301,243720,10648221.256
+H,"Transporte, armazenagem e correio",Administração pública,1,,,
+H,"Transporte, armazenagem e correio",Entidades empresariais,19640,268210,243640,10646130.61
+H,"Transporte, armazenagem e correio",Entidades sem fins lucrativos,21,,,
+I,Alojamento e alimentação,Total,24319,180816,150883,2813438.722
+I,Alojamento e alimentação,Administração pública,,,,
+I,Alojamento e alimentação,Entidades empresariais,24314,,,
+I,Alojamento e alimentação,Entidades sem fins lucrativos,5,,,
+J,Informação e comunicação,Total,9749,88051,75170,4723158.693
+J,Informação e comunicação,Administração pública,2,,,
+J,Informação e comunicação,Entidades empresariais,9594,86792,73996,4661719.507
+J,Informação e comunicação,Entidades sem fins lucrativos,153,,,
+K,"Atividades financeiras, de seguros e serviços relacionados",Total,9314,277598,263172,27306527.845
+K,"Atividades financeiras, de seguros e serviços relacionados",Administração pública,4,3940,3940,1287501.522
+K,"Atividades financeiras, de seguros e serviços relacionados",Entidades empresariais,9217,261746,247360,25171059.913
+K,"Atividades financeiras, de seguros e serviços relacionados",Entidades sem fins lucrativos,93,11912,11872,847966.41
+L,Atividades imobiliárias,Total,9070,27358,13591,480434.659
+L,Atividades imobiliárias,Administração pública,,,,
+L,Atividades imobiliárias,Entidades empresariais,9037,27059,13319,473765.466
+L,Atividades imobiliárias,Entidades sem fins lucrativos,33,299,272,6669.193
+M,"Atividades profissionais, científicas e técnicas",Total,31236,127280,86719,4788206.621
+M,"Atividades profissionais, científicas e técnicas",Administração pública,3,688,688,63969.022
+M,"Atividades profissionais, científicas e técnicas",Entidades empresariais,30706,121666,81380,4280114.085
+M,"Atividades profissionais, científicas e técnicas",Entidades sem fins lucrativos,527,4926,4651,444123.514
+N,Atividades administrativas e serviços complementares,Total,34493,392995,357445,7848115.851
+N,Atividades administrativas e serviços complementares,Administração pública,1,,,
+N,Atividades administrativas e serviços complementares,Entidades empresariais,23685,340960,311626,6859650.517
+N,Atividades administrativas e serviços complementares,Entidades sem fins lucrativos,10807,,,
+O,"Administração pública, defesa e seguridade social",Total,2091,1162979,1162951,106226295.054
+O,"Administração pública, defesa e seguridade social",Administração pública,2049,1156429,1156429,105338216.339
+O,"Administração pública, defesa e seguridade social",Entidades empresariais,23,,,
+O,"Administração pública, defesa e seguridade social",Entidades sem fins lucrativos,19,,,
+P,Educação,Total,14330,315632,300421,17717280.273
+P,Educação,Administração pública,78,162987,162987,12873559.292
+P,Educação,Entidades empresariais,9326,100878,87488,2514843.2
+P,Educação,Entidades sem fins lucrativos,4926,51767,49946,2328877.781
+Q,Saúde humana e serviços sociais,Total,25182,355109,316696,16361731.406
+Q,Saúde humana e serviços sociais,Administração pública,117,114433,114433,7762380.595
+Q,Saúde humana e serviços sociais,Entidades empresariais,23965,171141,133326,5620755.184
+Q,Saúde humana e serviços sociais,Entidades sem fins lucrativos,1100,69535,68937,2978595.627
+R,"Artes, cultura, esporte e recreação",Total,5335,26773,20824,540449.11
+R,"Artes, cultura, esporte e recreação",Administração pública,13,1672,1672,114053.333
+R,"Artes, cultura, esporte e recreação",Entidades empresariais,4322,19132,13728,242801.631
+R,"Artes, cultura, esporte e recreação",Entidades sem fins lucrativos,1000,5969,5424,183594.146
+S,Outras atividades de serviços,Total,20422,94922,77763,2857052.861
+S,Outras atividades de serviços,Administração pública,116,3955,3955,369155.534
+S,Outras atividades de serviços,Entidades empresariais,8128,39006,28630,695535.328
+S,Outras atividades de serviços,Entidades sem fins lucrativos,12178,51961,45178,1792361.999
+U,Organismos internacionais e outras instituições extraterritoriais,Total,126,1601,1552,101337.162
+U,Organismos internacionais e outras instituições extraterritoriais,Administração pública,,,,
+U,Organismos internacionais e outras instituições extraterritoriais,Entidades empresariais,,,,
+U,Organismos internacionais e outras instituições extraterritoriais,Entidades sem fins lucrativos,126,1601,1552,101337.162

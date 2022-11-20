@@ -1,0 +1,344 @@
+codigo_cnae,atividade,numero_empresas,pessoal_ocup_total,quatro_maiores_empresas_percent,oito_maiores_empresas_percent,doze_maiores_empresas_percent
+B,Indústrias extrativas,10738,208515,31.05,34.61,37.39
+05,Extração de carvão mineral,48,3619,71.65,94.5,97.49
+05.0,Extração de carvão mineral,48,3619,71.65,94.5,97.49
+06,Extração de petróleo e gás natural,172,4625,47.91,62.51,72.09
+06.0,Extração de petróleo e gás natural,172,4625,47.91,62.51,72.09
+07,Extração de minerais metálicos,861,89921,71.95,79.02,83.5
+07.1,Extração de minério de ferro,226,74101,86.26,91.35,93.82
+07.2,Extração de minerais metálicos não-ferrosos,635,15820,45.09,61.59,69.36
+08,Extração de minerais não-metálicos,9093,85231,3.56,5.81,7.41
+08.1,"Extração de pedra, areia e argila",7972,71151,2.91,4.69,5.93
+08.9,Extração de outros minerais não-metálicos,1121,14080,20.43,28.54,33.94
+09,Atividades de apoio à extração de minerais,564,25119,27.28,47.82,57.43
+09.1,Atividades de apoio à extração de petróleo e gás natural,204,21494,31.88,55.88,66.53
+09.9,"Atividades de apoio à extração de minerais, exceto petróleo e gás natural",360,3625,38.57,51.12,57.77
+C,Indústrias de transformação,390389,7744725,3.17,4.36,5.29
+10,Fabricação de produtos alimentícios,54303,1703854,13.57,17.27,20.03
+10.1,Abate e fabricação de produtos de carne,4608,607197,38.07,46.78,52.44
+10.2,Preservação do pescado e fabricação de produtos do pescado,654,19891,21.69,31.03,37.63
+10.3,"Fabricação de conservas de frutas, legumes e outros vegetais",3422,106970,39.49,44.17,47.45
+10.4,Fabricação de óleos e gorduras vegetais e animais,414,55771,41.49,60.85,70.62
+10.5,Laticínios,6797,157637,15.63,22.35,27.17
+10.6,"Moagem, fabricação de produtos amiláceos e de alimentos para animais",5047,139851,10.43,16.15,20.34
+10.7,Fabricação e refino de açúcar,264,155218,22.56,37.58,48.97
+10.8,Torrefação e moagem de café,1762,25889,35.74,46.65,53.11
+10.9,Fabricação de outros produtos alimentícios,31335,435430,7.4,10.71,13.41
+11,Fabricação de bebidas,5324,182631,38.9,50.45,55.05
+11.1,Fabricação de bebidas alcoólicas,3649,89203,58.31,65.67,69.11
+11.2,Fabricação de bebidas não-alcoólicas,1675,93428,42.95,51.88,56.68
+12,Fabricação de produtos do fumo,253,15974,61.56,76.29,81.37
+12.1,Processamento industrial do fumo,31,5313,60.08,86.07,94.82
+12.2,Fabricação de produtos do fumo,222,10661,79.03,83.13,86.3
+13,Fabricação de produtos têxteis,10916,256434,6.35,9.48,12.08
+13.1,Preparação e fiação de fibras têxteis,701,31664,16.27,28.68,37.24
+13.2,"Tecelagem, exceto malha",977,73001,21.88,32.43,40.45
+13.3,Fabricação de tecidos de malha,779,25837,21.82,31.97,40.03
+13.4,"Acabamentos em fios, tecidos e artefatos têxteis",2671,35527,4.86,8.87,12.24
+13.5,"Fabricação de artefatos têxteis, exceto vestuário",5788,90405,6.47,10.62,13.33
+14,Confecção de artigos do vestuário e acessórios,53282,624933,4.36,6.04,7.17
+14.1,Confecção de artigos do vestuário e acessórios,51344,607392,4.49,6.22,7.38
+14.2,Fabricação de artigos de malharia e tricotagem,1938,17541,19.2,24.39,27.88
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",11459,334306,16.65,25.37,29.89
+15.1,Curtimento e outras preparações de couro,575,25616,20.73,31.71,37.95
+15.2,Fabricação de artigos para viagem e de artefatos diversos de couro,2434,22595,10,13.92,16.94
+15.3,Fabricação de calçados,6970,259574,21.44,32.67,38.49
+15.4,"Fabricação de partes para calçados, de qualquer material",1480,26521,10.54,14.94,18.06
+16,Fabricação de produtos de madeira,15570,186184,6.45,9.09,10.94
+16.1,Desdobramento de madeira,7110,74326,4.19,6.92,9.17
+16.2,"Fabricação de produtos de madeira, cortiça e material trançado, exceto móveis",8460,111858,10.73,15.13,17.84
+17,"Fabricação de celulose, papel e produtos de papel",4912,196684,19.36,25.61,29.32
+17.1,Fabricação de celulose e outras pastas para a fabricação de papel,45,28132,85.28,96.53,99.08
+17.2,"Fabricação de papel, cartolina e papel-cartão",252,44408,51.68,59.75,65.03
+17.3,"Fabricação de embalagens de papel, cartolina, papel-cartão e papelão ondulado",2268,64761,10.91,17.56,21.92
+17.4,"Fabricação de produtos diversos de papel, cartolina, papel-cartão e papelão ondulado",2347,59383,15.53,22.86,27.63
+18,Impressão e reprodução de gravações,19060,121251,7.22,9.89,11.37
+18.1,Atividade de impressão,12749,89578,6.19,9.14,11.06
+18.2,Serviços de pré-impressão e acabamentos gráficos,5901,30173,16.77,19.48,21.68
+18.3,Reprodução de materiais gravados em qualquer suporte,410,1500,37.13,43.33,48.2
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",596,268299,31.31,38.12,43.91
+19.1,Coquerias,8,395,97.72,100,100
+19.2,Fabricação de produtos derivados do petróleo,210,54371,86.17,89.02,90.75
+19.3,Fabricação de biocombustíveis,378,213533,20.68,28.85,35.87
+20,Fabricação de produtos químicos,10037,312695,6.69,11.74,14.84
+20.1,Fabricação de produtos químicos inorgânicos,1153,60554,22.72,30.35,36.43
+20.2,Fabricação de produtos químicos orgânicos,419,22457,22.22,33.07,40.81
+20.3,Fabricação de resinas e elastômeros,333,23140,38.48,46.99,52.54
+20.4,Fabricação de fibras artificiais e sintéticas,98,3139,48.68,69.64,79.45
+20.5,Fabricação de defensivos agrícolas e desinfestantes domissanitários,265,25892,53.27,69.04,77.16
+20.6,"Fabricação de sabões, detergentes, produtos de limpeza, cosméticos, produtos de perfumaria e de higiene pessoal",4323,103771,13.66,20.61,26.39
+20.7,"Fabricação de tintas, vernizes, esmaltes, lacas e produtos afins",1413,32024,14.83,21.67,27.05
+20.9,Fabricação de produtos e preparados químicos diversos,2033,41718,8.37,14.07,18.68
+21,Fabricação de produtos farmoquímicos e farmacêuticos,666,111426,17,30.6,40.98
+21.1,Fabricação de produtos farmoquímicos,112,2338,31.69,48.85,62.1
+21.2,Fabricação de produtos farmacêuticos,554,109088,17.37,31.26,41.86
+22,Fabricação de produtos de borracha e de material plástico,15938,397266,4.54,7.81,10.52
+22.1,Fabricação de produtos de borracha,2924,88251,20.46,32.91,38.5
+22.2,Fabricação de produtos de material plástico,13014,309015,3.86,6.76,8.61
+23,Fabricação de produtos de minerais não-metálicos,28911,413026,4.95,7.67,9.59
+23.1,Fabricação de vidro e de produtos do vidro,1275,41762,16.91,24.9,30.53
+23.2,Fabricação de cimento,61,17704,58.43,75.18,85.76
+23.3,"Fabricação de artefatos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",12141,130607,11.24,13.53,14.94
+23.4,Fabricação de produtos cerâmicos,6593,136708,8.62,12.62,15.51
+23.9,Aparelhamento de pedras e fabricação de outros produtos de minerais não-metálicos,8841,86245,5.56,8.11,10.14
+24,Metalurgia,3543,218280,19.75,28.52,35.08
+24.1,Produção de ferro-gusa e de ferroligas,174,24472,32.94,48.19,57.45
+24.2,Siderurgia,508,85563,50.39,70.02,79.97
+24.3,"Produção de tubos de aço, exceto tubos sem costura",256,17872,34.91,48.57,56.72
+24.4,Metalurgia dos metais não-ferrosos,1097,59937,26.79,39.39,48.41
+24.5,Fundição,1508,30436,17.04,23.65,28.03
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",44448,466648,2.69,4.28,5.38
+25.1,Fabricação de estruturas metálicas e obras de caldeiraria pesada,14780,135611,7.71,9.83,11.59
+25.2,"Fabricação de tanques, reservatórios metálicos e caldeiras",673,12558,15.04,23.22,29.24
+25.3,"Forjaria, estamparia, metalurgia do pó e serviços de tratamento de metais",11240,95281,3.1,4.7,6.01
+25.4,"Fabricação de artigos de cutelaria, de serralheria e ferramentas",7912,73822,9.23,13.12,16.52
+25.5,"Fabricação de equipamento bélico pesado, armas de fogo e munições",22,6972,91.61,98.61,99.77
+25.9,Fabricação de produtos de metal não especificados anteriormente,9821,142404,3.57,6.31,8.47
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",3979,126771,16.8,24.77,29.14
+26.1,Fabricação de componentes eletrônicos,1039,19423,16.54,25.89,31.85
+26.2,Fabricação de equipamentos de informática e periféricos,546,29680,47.36,63.71,73.31
+26.3,Fabricação de equipamentos de comunicação,331,27894,57.06,69.21,76.81
+26.4,"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo",389,16130,33.99,47.65,57.67
+26.5,"Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",1271,26208,11.69,19.57,25.64
+26.6,Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,287,6212,37.94,46.07,52.22
+26.7,"Fabricação de equipamentos e instrumentos ópticos, fotográficos e cinematográficos",106,1178,30.14,48.05,59.08
+26.8,"Fabricação de mídias virgens, magnéticas e ópticas",10,46,69.57,93.48,100
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",5246,213694,18.56,24.51,29.35
+27.1,"Fabricação de geradores, transformadores e motores elétricos",756,59197,40.32,50.74,58.27
+27.2,"Fabricação de pilhas, baterias e acumuladores elétricos",171,11829,45.99,59.09,67.37
+27.3,Fabricação de equipamentos para distribuição e controle de energia elétrica,1791,58506,15.61,25.92,32.37
+27.4,Fabricação de lâmpadas e outros equipamentos de iluminação,758,10800,12.82,20.99,27.16
+27.5,Fabricação de eletrodomésticos,488,56131,50.35,65.38,71.14
+27.9,Fabricação de equipamentos e aparelhos elétricos não especificados anteriormente,1282,17231,17.71,23.5,26.94
+28,Fabricação de máquinas e equipamentos,16575,366951,6.1,9.9,12.31
+28.1,"Fabricação de motores, bombas, compressores e equipamentos de transmissão",1475,64384,16.24,22.06,26.63
+28.2,Fabricação de máquinas e equipamentos de uso geral,5933,108840,11.14,14,16.22
+28.3,Fabricação de tratores e de máquinas e equipamentos para a agricultura e pecuária,2343,71483,23.63,33,37.91
+28.4,Fabricação de máquinas-ferramenta,1444,23170,22.05,28.53,33.25
+28.5,Fabricação de máquinas e equipamentos de uso na extração mineral e na construção,447,31125,29.15,42.32,51.49
+28.6,Fabricação de máquinas e equipamentos de uso industrial específico,4933,67949,6.34,9.58,12.23
+29,"Fabricação de veículos automotores, reboques e carrocerias",6796,444802,13.82,20.87,26.92
+29.1,"Fabricação de automóveis, camionetas e utilitários",45,88044,66.76,88.61,97
+29.2,Fabricação de caminhões e ônibus,20,23640,80.6,96.22,99.89
+29.3,"Fabricação de cabines, carrocerias e reboques para veículos automotores",1944,55422,34.53,44.77,52.49
+29.4,Fabricação de peças e acessórios para veículos automotores,2951,265382,11.58,18.81,23.74
+29.5,Recondicionamento e recuperação de motores para veículos automotores,1836,12314,3.13,4.68,6.07
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1568,75482,34.34,43.2,48.7
+30.1,Construção de embarcações,575,17280,36.85,49.77,60.07
+30.3,Fabricação de veículos ferroviários,69,5748,58.82,73.97,82.03
+30.4,Fabricação de aeronaves,90,19794,80.7,87.17,91.48
+30.5,Fabricação de veículos militares de combate,3,1910,100,100,100
+30.9,Fabricação de equipamentos de transporte não especificados anteriormente,831,30750,39.34,47.43,52.83
+31,Fabricação de móveis,23193,268563,2.58,4.3,5.76
+31.0,Fabricação de móveis,23193,268563,2.58,4.3,5.76
+32,Fabricação de produtos diversos,16153,179942,4.07,7.16,8.98
+32.1,"Fabricação de artigos de joalheria, bijuteria e semelhantes",2138,21568,9.31,11.78,13.74
+32.2,Fabricação de instrumentos musicais,179,1498,22.7,31.64,39.25
+32.3,Fabricação de artefatos para pesca e esporte,575,5133,11.96,17.92,22.09
+32.4,Fabricação de brinquedos e jogos recreativos,772,14913,14.11,23.34,30.83
+32.5,Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos,5561,68405,9.29,14.35,17.96
+32.9,Fabricação de produtos diversos,6928,68425,8.87,13.09,16.31
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",37661,258629,8.17,12.3,14.56
+33.1,Manutenção e reparação de máquinas e equipamentos,29131,206249,9.42,13.91,16.44
+33.2,Instalação de máquinas e equipamentos,8530,52380,10.33,11.66,12.78
+D,Eletricidade e gás,4963,137407,15.39,27.16,37.06
+35,"Eletricidade, gás e outras utilidades",4963,137407,15.39,27.16,37.06
+35.1,"Geração, transmissão e distribuição de energia elétrica",4868,132362,15.98,28.2,38.48
+35.2,Produção e distribuição de combustíveis gasosos por redes urbanas,65,4152,56.21,70.45,81.14
+35.3,"Produção e distribuição de vapor, água quente e ar condicionado",30,893,61.7,80.63,89.92
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",11312,369483,14.8,21.47,26.94
+36,"Captação, tratamento e distribuição de água",1131,108856,38.33,56.62,66.52
+36.0,"Captação, tratamento e distribuição de água",1131,108856,38.33,56.62,66.52
+37,Esgoto e atividades relacionadas,1353,15118,19,28.23,35.01
+37.0,Esgoto e atividades relacionadas,1353,15118,19,28.23,35.01
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8699,243763,14.98,22.29,27.86
+38.1,Coleta de resíduos,4755,197949,18.45,27.45,34.3
+38.2,Tratamento e disposição de resíduos,462,15527,33.25,42.4,47.87
+38.3,Recuperação de materiais,3482,30287,14.79,17.14,18.99
+39,Descontaminação e outros serviços de gestão de resíduos,129,1746,56.47,66.67,71.99
+39.0,Descontaminação e outros serviços de gestão de resíduos,129,1746,56.47,66.67,71.99
+F,Construção,271238,2284419,2.95,4.55,5.52
+41,Construção de edifícios,147147,924814,2.71,3.63,4.29
+41.1,Incorporação de empreendimentos imobiliários,58966,159323,0.77,1.33,1.78
+41.2,Construção de edifícios,88181,765491,3.27,4.38,5.18
+42,Obras de infraestrutura,21953,628677,10.16,13.38,15.45
+42.1,"Construção de rodovias, ferrovias, obras urbanas e obras-de-arte especiais",6673,204580,6.51,11.2,14.46
+42.2,"Obras de infraestrutura para energia elétrica, telecomunicações, água, esgoto e transporte por dutos",5227,268072,23.82,31.14,35.51
+42.9,Construção de outras obras de infraestrutura,10053,156025,7.09,13.19,18.29
+43,Serviços especializados para construção,102138,730928,4.46,6.41,7.84
+43.1,Demolição e preparação do terreno,12043,92863,8.46,11.77,14.11
+43.2,"Instalações elétricas, hidráulicas e outras instalações em construções",39858,316434,10.3,14.82,17.95
+43.3,Obras de acabamento,24729,128084,1.53,2.82,3.84
+43.9,Outros serviços especializados para construção,25508,193547,4.5,7.03,8.93
+G,Comércio; reparação de veículos automotores e motocicletas,1793537,11349278,1.71,2.99,3.86
+45,Comércio e reparação de veículos automotores e motocicletas,235194,1244130,0.76,1.22,1.61
+45.1,Comércio de veículos automotores,32565,274204,2.08,3.37,4.41
+45.2,Manutenção e reparação de veículos automotores,73223,296556,0.51,0.85,1.12
+45.3,Comércio de peças e acessórios para veículos automotores,109537,570952,1.57,2.48,3.27
+45.4,"Comércio, manutenção e reparação de motocicletas, peças e acessórios",19869,102418,2.47,4.3,5.72
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",290779,1926039,1.62,2.79,3.68
+46.1,"Representantes comerciais e agentes do comércio, exceto de veículos automotores e motocicletas",119120,204375,0.42,0.71,0.97
+46.2,Comércio atacadista de matérias-primas agrícolas e animais vivos,9401,119396,23.48,30.07,34.5
+46.3,"Comércio atacadista especializado em produtos alimentícios, bebidas e fumo",42466,432247,4.52,6.39,7.56
+46.4,Comércio atacadista de produtos de consumo não-alimentar,43933,415081,4.16,6.9,8.96
+46.5,Comércio atacadista de equipamentos e produtos de tecnologias de informação e comunicação,4112,39202,10.87,15.87,20.29
+46.6,"Comércio atacadista de máquinas, aparelhos e equipamentos, exceto de tecnologias de informação e comunicação",18824,167219,5.51,7.2,8.68
+46.7,"Comércio atacadista de madeira, ferragens, ferramentas, material elétrico e material de construção",15623,133668,3.56,5.25,6.56
+46.8,Comércio atacadista especializado em outros produtos,28965,247409,4.99,7.68,9.16
+46.9,Comércio atacadista não-especializado,8335,167442,10.83,17.23,21.42
+47,Comércio varejista,1267564,8179109,2.38,4.15,5.36
+47.1,Comércio varejista não-especializado,172984,2158828,8.72,13.84,17.25
+47.2,"Comércio varejista de produtos alimentícios, bebidas e fumo",165996,848180,1.75,2.18,2.46
+47.3,Comércio varejista de combustíveis para veículos automotores,42594,433174,2,2.92,3.42
+47.4,Comércio varejista de material de construção,170365,924444,2.47,3.55,4.17
+47.5,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,175794,958390,6.96,8.75,10.24
+47.6,"Comércio varejista de artigos culturais, recreativos e esportivos",57654,255872,6.63,8.48,9.37
+47.7,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",130130,878731,10.18,13.68,16.15
+47.8,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,352047,1721490,4.81,6.45,7.27
+47.9,Comércio ambulante e outros tipos de comércio varejista,,,,,
+H,"Transporte, armazenagem e correio",224929,2638693,5.69,7.24,8.35
+49,Transporte terrestre,181427,1872017,2.19,3.69,4.95
+49.1,Transporte ferroviário e metroferroviário,59,58196,47.26,70.39,80.96
+49.2,Transporte rodoviário de passageiros,41453,712144,3.94,6.25,8.2
+49.3,Transporte rodoviário de carga,139870,1093509,3.21,4.88,6.22
+49.4,Transporte dutoviário,12,7563,96.92,99.87,100
+49.5,"Trens turísticos, teleféricos e similares",33,605,85.62,92.23,95.54
+50,Transporte aquaviário,1693,41527,15.76,24.42,31.76
+50.1,Transporte marítimo de cabotagem e longo curso,146,4722,61.8,75.88,83.95
+50.2,Transporte por navegação interior,668,13302,32.37,43.91,50.16
+50.3,Navegação de apoio,366,17974,26.09,42.11,54.6
+50.9,Outros transportes aquaviários,513,5529,27.47,36.88,44.37
+51,Transporte aéreo,470,62381,82.86,87.29,89.59
+51.1,Transporte aéreo de passageiros,402,60553,85.36,89.93,92.17
+51.2,Transporte aéreo de carga,68,1828,52.63,79.49,87.09
+51.3,Transporte espacial,,,,,
+52,Armazenamento e atividades auxiliares dos transportes,33209,490032,5.37,8.96,12
+52.1,"Armazenamento, carga e descarga",6501,132738,8.68,11.55,14.19
+52.2,Atividades auxiliares dos transportes terrestres,18981,173856,9.16,12.58,15
+52.3,Atividades auxiliares dos transportes aquaviários,1540,46870,12.35,20.13,27.02
+52.4,Atividades auxiliares dos transportes aéreos,1310,45061,48.45,62.49,69.86
+52.5,Atividades relacionadas à organização do transporte de carga,4877,91507,17.68,30.49,35.69
+53,Correio e outras atividades de entrega,8130,172736,59.82,61,61.66
+53.1,Atividades de correio,989,112349,88.66,88.84,88.98
+53.2,Atividades de malote e de entrega,7141,60387,8.04,10.34,12.17
+I,Alojamento e alimentação,290549,2307179,4.36,6.06,6.65
+55,Alojamento,35241,387832,2.69,4.48,5.83
+55.1,Hotéis e similares,30969,366416,2.85,4.74,6.18
+55.9,Outros tipos de alojamento não especificados anteriormente,4272,21416,2.97,4.2,5.25
+56,Alimentação,255308,1919347,5.24,7.28,7.97
+56.1,Restaurantes e outros serviços de alimentação e bebidas,231694,1601414,4.42,4.91,5.17
+56.2,"Serviços de catering, bufê e outros serviços de comida preparada",23614,317933,21.73,25.8,29.04
+J,Informação e comunicação,156964,1170106,7.36,10.77,13
+58,Edição e edição integrada à impressão,12721,82425,14.26,18.82,21.91
+58.1,"Edição de livros, jornais, revistas e outras atividades de edição",7739,30046,6.55,10.8,13.99
+58.2,"Edição integrada à impressão de livros, jornais, revistas e outras publicações",4982,52379,22.44,29.62,34.26
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",17325,53131,14.96,17.77,19.85
+59.1,"Atividades cinematográficas, produção de vídeos e de programas de televisão",15295,48368,16.44,19.52,21.8
+59.2,Atividades de gravação de som e de edição de música,2030,4763,5.37,9.03,11.21
+60,Atividades de rádio e de televisão,4575,84209,24.07,29.64,32.34
+60.1,Atividades de rádio,3572,31996,2.57,4.29,5.61
+60.2,Atividades de televisão,1003,52213,38.82,47.8,52.16
+61,Telecomunicações,15698,250896,30.38,35.14,38.64
+61.1,Telecomunicações por fio,7204,74511,20.04,24.96,27.33
+61.2,Telecomunicações sem fio,397,78186,93.43,97.03,97.37
+61.3,Telecomunicações por satélite,143,2130,40.09,53.85,62.49
+61.4,Operadoras de televisão por assinatura,224,5259,47.88,56.11,62.43
+61.9,Outras atividades de telecomunicações,7730,90810,7.9,11.73,14.18
+62,Atividades dos serviços de tecnologia da informação,78783,542367,7.26,10.99,13.49
+62.0,Atividades dos serviços de tecnologia da informação,78783,542367,7.26,10.99,13.49
+63,Atividades de prestação de serviços de informação,27862,157078,16.16,22.43,25.51
+63.1,"Tratamento de dados, hospedagem na internet e outras atividades relacionadas",21669,138118,18.38,25.51,29.01
+63.9,Outras atividades de prestação de serviços de informação,6193,18960,7.43,10.72,12.45
+K,"Atividades financeiras, de seguros e serviços relacionados",132556,1275157,32.85,39.56,41.64
+64,Atividades de serviços financeiros,83208,825000,50.77,59.69,61.22
+64.1,Banco central,,,,,
+64.2,Intermediação monetária - depósitos à vista,1162,625023,67.01,78.78,80.72
+64.3,Intermediação não-monetária - outros instrumentos de captação,369,20611,36.04,48.99,57.06
+64.4,Arrendamento mercantil,32,318,62.58,87.11,92.77
+64.5,Sociedades de capitalização,24,1333,85,94.6,98.35
+64.6,Atividades de sociedades de participação,63307,145236,3.11,4.98,6.47
+64.7,Fundos de investimento,10988,1547,2.97,5.56,8.14
+64.9,Atividades de serviços financeiros não especificadas anteriormente,7326,30932,18.59,25.11,28.07
+65,"Seguros, resseguros, previdência complementar e planos de saúde",1651,236573,16.29,23.29,28.18
+65.1,Seguros de vida e não-vida,479,46787,36.84,53.04,63.9
+65.2,Seguros-saúde,9,5563,94.79,100,100
+65.3,Resseguros,19,689,76.78,92.6,98.11
+65.4,Previdência complementar,14,1872,94.18,99.57,99.95
+65.5,Planos de saúde,1130,181662,19.77,26.78,31.69
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",47697,213584,5.26,8.18,10.73
+66.1,Atividades auxiliares dos serviços financeiros,9040,70917,15.86,24.3,29.14
+66.2,"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde",37145,134009,4.24,7.45,9.2
+66.3,Atividades de administração de fundos por contrato ou comissão,1512,8658,10.46,15.38,18.69
+L,Atividades imobiliárias,131126,372070,1.18,1.84,2.35
+68,Atividades imobiliárias,131126,372070,1.18,1.84,2.35
+68.1,Atividades imobiliárias de imóveis próprios,78929,186273,0.94,1.5,1.9
+68.2,Atividades imobiliárias por contrato ou comissão,52197,185797,2.36,3.63,4.55
+M,"Atividades profissionais, científicas e técnicas",377596,1546818,1.66,2.66,3.47
+69,"Atividades jurídicas, de contabilidade e de auditoria",130224,582558,1.69,2.67,3.37
+69.1,Atividades jurídicas,59560,186320,2.99,4.51,5.52
+69.2,"Atividades de contabilidade, consultoria e auditoria contábil e tributária",70664,396238,2.46,3.49,4.04
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,56227,174857,5.4,8.45,10.61
+70.1,Sedes de empresas e unidades administrativas locais,,,,,
+70.2,Atividades de consultoria em gestão empresarial,56227,174857,5.4,8.45,10.61
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,84775,376857,4.99,7.76,9.59
+71.1,Serviços de arquitetura e engenharia e atividades técnicas relacionadas,81791,335858,4.69,7.34,9.06
+71.2,Testes e análises técnicas,2984,40999,26.17,32.12,35.55
+72,Pesquisa e desenvolvimento científico,1820,25154,57.17,66.66,71.73
+72.1,Pesquisa e desenvolvimento experimental em ciências físicas e naturais,1351,24092,59.69,69.6,74.89
+72.2,Pesquisa e desenvolvimento experimental em ciências sociais e humanas,469,1062,8.66,14.03,18.17
+73,Publicidade e pesquisa de mercado,48823,183722,5.57,7.93,9.59
+73.1,Publicidade,47360,174067,5.73,7.7,9.21
+73.2,Pesquisas de mercado e de opinião pública,1463,9655,39.13,50.15,54.56
+74,"Outras atividades profissionais, científicas e técnicas",46175,172369,8.51,12.68,15.95
+74.1,Design e decoração de interiores,4444,9035,7.87,9.37,10.53
+74.2,Atividades fotográficas e similares,7297,24531,10.71,13.13,14.82
+74.9,"Atividades profissionais, científicas e técnicas não especificadas anteriormente",34434,138803,10.57,15.53,19.3
+75,Atividades veterinárias,9552,31301,1.91,2.78,3.46
+75.0,Atividades veterinárias,9552,31301,1.91,2.78,3.46
+N,Atividades administrativas e serviços complementares,319357,4310975,4.04,6.2,7.91
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,45282,299938,6.32,8.02,9.26
+77.1,Locação de meios de transporte sem condutor,11868,82871,18.54,23.31,26.65
+77.2,Aluguel de objetos pessoais e domésticos,7614,39947,15.17,16.32,17.34
+77.3,Aluguel de máquinas e equipamentos sem operador,22477,161510,2.75,4.51,6.05
+77.4,Gestão de ativos intangíveis não-financeiros,3323,15610,14.27,17.85,20.57
+78,"Seleção, agenciamento e locação de mão-de-obra",6423,658331,11.31,16.21,20.23
+78.1,Seleção e agenciamento de mão-de-obra,2403,100761,18.66,28.42,35.28
+78.2,Locação de mão-de-obra temporária,3095,421656,15.42,21.38,26.33
+78.3,Fornecimento e gestão de recursos humanos para terceiros,925,135914,30.67,44.24,52.71
+79,"Agências de viagens, operadores turísticos e serviços de reservas",19934,99451,4.07,6.23,7.97
+79.1,Agências de viagens e operadores turísticos,18421,91547,4.42,6.77,8.65
+79.9,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1513,7904,11.92,18.75,23.71
+80,"Atividades de vigilância, segurança e investigação",11132,665090,9.43,14.97,18.89
+80.1,"Atividades de vigilância, segurança privada e transporte de valores",5368,578203,10.85,17.21,21.72
+80.2,Atividades de monitoramento de sistemas de segurança,5647,86546,12.33,17.22,21.01
+80.3,Atividades de investigação particular,117,341,36.66,46.33,53.67
+81,Serviços para edifícios e atividades paisagísticas,30962,1136877,7.04,10.72,13.49
+81.1,Serviços combinados para apoio a edifícios,9869,251135,7.56,10.91,13.16
+81.2,Atividades de limpeza,16488,851620,9.4,14.31,18.01
+81.3,Atividades paisagísticas,4605,34122,6.35,9.87,12.75
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",205624,1451288,11.23,15.81,18.56
+82.1,Serviços de escritório e apoio administrativo,115146,477354,3.06,4.4,5.45
+82.2,Atividades de teleatendimento,2539,433432,37.59,52.95,62.16
+82.3,"Atividades de organização de eventos, exceto culturais e esportivos",22248,80238,5.29,7.05,8.23
+82.9,Outras atividades de serviços prestados principalmente às empresas,65691,460264,3.06,5.12,6.85
+R,"Artes, cultura, esporte e recreação",57287,243148,5.01,6.26,7.05
+90,"Atividades artísticas, criativas e de espetáculos",14469,33632,3.13,4.65,5.45
+90.0,"Atividades artísticas, criativas e de espetáculos",14469,33632,3.13,4.65,5.45
+91,Atividades ligadas ao patrimônio cultural e ambiental,358,2710,44.54,52.55,57.97
+91.0,Atividades ligadas ao patrimônio cultural e ambiental,358,2710,44.54,52.55,57.97
+92,Atividades de exploração de jogos de azar e apostas,54,93,27.96,40.86,50.54
+92.0,Atividades de exploração de jogos de azar e apostas,54,93,27.96,40.86,50.54
+93,Atividades esportivas e de recreação e lazer,42406,206713,5.89,7.36,8.29
+93.1,Atividades esportivas,35939,165574,6.54,7.64,8.44
+93.2,Atividades de recreação e lazer,6467,41139,10.67,14.76,17.48
+S,Outras atividades de serviços,93118,428144,2.83,4.11,5.02
+94,Atividades de organizações associativas,907,4502,12.73,18.95,23.97
+94.1,"Atividades de organizações associativas patronais, empresariais e profissionais",251,1591,24.76,37.02,42.68
+94.2,Atividades de organizações sindicais,1,,,,
+94.3,Atividades de associações de defesa de direitos sociais,448,1735,16.95,23.05,27.09
+94.9,Atividades de organizações associativas não especificadas anteriormente,207,,31.13,42.28,47.94
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,37473,153825,5.87,7.61,8.78
+95.1,Reparação e manutenção de equipamentos de informática e comunicação,19072,86217,10.48,13.58,15.67
+95.2,Reparação e manutenção de objetos e equipamentos pessoais e domésticos,18401,67608,1.15,1.93,2.49
+96,Outras atividades de serviços pessoais,54738,269817,3.16,4.61,5.45
+96.0,Outras atividades de serviços pessoais,54738,269817,3.16,4.61,5.45

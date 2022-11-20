@@ -1,0 +1,645 @@
+codigo_cnae,atividade,tipo_empresa,total_empresas,pessoal_ocupado_total,numero_empresas_percent_total,pessoal_ocupado_percent_total,numero_empresas_mais_de_um_local_pct,pessoal_ocupado_mais_de_um_local_pct
+B,Indústrias extrativas,Unidade local única,9303,64120,86.64,30.75,,
+B,Indústrias extrativas,Mais de uma unidade local,1435,144395,13.36,69.25,100,100
+B,Indústrias extrativas,Mais de uma unidade local - não diversificada,634,19050,5.9,9.14,44.18,13.19
+B,Indústrias extrativas,Mais de uma unidade local - diversificada,801,125345,7.46,60.11,55.82,86.81
+B,Indústrias extrativas,Mais de uma unidade local - diversificada - espacial,245,20322,2.28,9.75,17.07,14.07
+B,Indústrias extrativas,Mais de uma unidade local - diversificada - atividade,370,15037,3.45,7.21,25.78,10.41
+B,Indústrias extrativas,Mais de uma unidade local - diversificada - mista,186,89986,1.73,43.16,12.96,62.32
+05,Extração de carvão mineral,Unidade local única,38,204,79.17,5.64,,
+05,Extração de carvão mineral,Mais de uma unidade local,10,3415,20.83,94.36,100,100
+05,Extração de carvão mineral,Mais de uma unidade local - não diversificada,2,,,,,
+05,Extração de carvão mineral,Mais de uma unidade local - diversificada,8,,,,,
+05,Extração de carvão mineral,Mais de uma unidade local - diversificada - espacial,2,,,,,
+05,Extração de carvão mineral,Mais de uma unidade local - diversificada - atividade,4,2060,8.33,56.92,40,60.32
+05,Extração de carvão mineral,Mais de uma unidade local - diversificada - mista,2,,,,,
+06,Extração de petróleo e gás natural,Unidade local única,133,1334,77.33,28.84,,
+06,Extração de petróleo e gás natural,Mais de uma unidade local,39,3291,22.67,71.16,100,100
+06,Extração de petróleo e gás natural,Mais de uma unidade local - não diversificada,6,246,3.49,5.32,15.38,7.47
+06,Extração de petróleo e gás natural,Mais de uma unidade local - diversificada,33,3045,19.19,65.84,84.62,92.53
+06,Extração de petróleo e gás natural,Mais de uma unidade local - diversificada - espacial,28,1907,16.28,41.23,71.79,57.95
+06,Extração de petróleo e gás natural,Mais de uma unidade local - diversificada - atividade,1,,,,,
+06,Extração de petróleo e gás natural,Mais de uma unidade local - diversificada - mista,4,,,,,
+07,Extração de minerais metálicos,Unidade local única,704,6759,81.77,7.52,,
+07,Extração de minerais metálicos,Mais de uma unidade local,157,83162,18.23,92.48,100,100
+07,Extração de minerais metálicos,Mais de uma unidade local - não diversificada,60,7217,6.97,8.03,38.22,8.68
+07,Extração de minerais metálicos,Mais de uma unidade local - diversificada,97,75945,11.27,84.46,61.78,91.32
+07,Extração de minerais metálicos,Mais de uma unidade local - diversificada - espacial,41,8396,4.76,9.34,26.11,10.1
+07,Extração de minerais metálicos,Mais de uma unidade local - diversificada - atividade,24,1431,2.79,1.59,15.29,1.72
+07,Extração de minerais metálicos,Mais de uma unidade local - diversificada - mista,32,66118,3.72,73.53,20.38,79.51
+08,Extração de minerais não-metálicos,Unidade local única,7943,49443,87.35,58.01,,
+08,Extração de minerais não-metálicos,Mais de uma unidade local,1150,35788,12.65,41.99,100,100
+08,Extração de minerais não-metálicos,Mais de uma unidade local - não diversificada,549,10487,6.04,12.3,47.74,29.3
+08,Extração de minerais não-metálicos,Mais de uma unidade local - diversificada,601,25301,6.61,29.69,52.26,70.7
+08,Extração de minerais não-metálicos,Mais de uma unidade local - diversificada - espacial,145,5318,1.59,6.24,12.61,14.86
+08,Extração de minerais não-metálicos,Mais de uma unidade local - diversificada - atividade,329,11020,3.62,12.93,28.61,30.79
+08,Extração de minerais não-metálicos,Mais de uma unidade local - diversificada - mista,127,8963,1.4,10.52,11.04,25.04
+09,Atividades de apoio à extração de minerais,Unidade local única,485,6380,85.99,25.4,,
+09,Atividades de apoio à extração de minerais,Mais de uma unidade local,79,18739,14.01,74.6,100,100
+09,Atividades de apoio à extração de minerais,Mais de uma unidade local - não diversificada,17,775,3.01,3.09,21.52,4.14
+09,Atividades de apoio à extração de minerais,Mais de uma unidade local - diversificada,62,17964,10.99,71.52,78.48,95.86
+09,Atividades de apoio à extração de minerais,Mais de uma unidade local - diversificada - espacial,29,4236,5.14,16.86,36.71,22.61
+09,Atividades de apoio à extração de minerais,Mais de uma unidade local - diversificada - atividade,12,503,2.13,2,15.19,2.68
+09,Atividades de apoio à extração de minerais,Mais de uma unidade local - diversificada - mista,21,13225,3.72,52.65,26.58,70.57
+C,Indústrias de transformação,Unidade local única,369301,3776942,94.6,48.77,,
+C,Indústrias de transformação,Mais de uma unidade local,21088,3967783,5.4,51.23,100,100
+C,Indústrias de transformação,Mais de uma unidade local - não diversificada,6466,458713,1.66,5.92,30.66,11.56
+C,Indústrias de transformação,Mais de uma unidade local - diversificada,14622,3509070,3.75,45.31,69.34,88.44
+C,Indústrias de transformação,Mais de uma unidade local - diversificada - espacial,1721,318659,0.44,4.11,8.16,8.03
+C,Indústrias de transformação,Mais de uma unidade local - diversificada - atividade,8835,675013,2.26,8.72,41.9,17.01
+C,Indústrias de transformação,Mais de uma unidade local - diversificada - mista,4066,2515398,1.04,32.48,19.28,63.4
+10,Fabricação de produtos alimentícios,Unidade local única,50368,567513,92.75,33.31,,
+10,Fabricação de produtos alimentícios,Mais de uma unidade local,3935,1136341,7.25,66.69,100,100
+10,Fabricação de produtos alimentícios,Mais de uma unidade local - não diversificada,1192,95033,2.2,5.58,30.29,8.36
+10,Fabricação de produtos alimentícios,Mais de uma unidade local - diversificada,2743,1041308,5.05,61.11,69.71,91.64
+10,Fabricação de produtos alimentícios,Mais de uma unidade local - diversificada - espacial,263,35672,0.48,2.09,6.68,3.14
+10,Fabricação de produtos alimentícios,Mais de uma unidade local - diversificada - atividade,1648,185776,3.03,10.9,41.88,16.35
+10,Fabricação de produtos alimentícios,Mais de uma unidade local - diversificada - mista,832,819860,1.53,48.12,21.14,72.15
+11,Fabricação de bebidas,Unidade local única,4931,42057,92.62,23.03,,
+11,Fabricação de bebidas,Mais de uma unidade local,393,140574,7.38,76.97,100,100
+11,Fabricação de bebidas,Mais de uma unidade local - não diversificada,116,5092,2.18,2.79,29.52,3.62
+11,Fabricação de bebidas,Mais de uma unidade local - diversificada,277,135482,5.2,74.18,70.48,96.38
+11,Fabricação de bebidas,Mais de uma unidade local - diversificada - espacial,25,3702,0.47,2.03,6.36,2.63
+11,Fabricação de bebidas,Mais de uma unidade local - diversificada - atividade,171,13803,3.21,7.56,43.51,9.82
+11,Fabricação de bebidas,Mais de uma unidade local - diversificada - mista,81,117977,1.52,64.6,20.61,83.93
+12,Fabricação de produtos do fumo,Unidade local única,220,2328,86.96,14.57,,
+12,Fabricação de produtos do fumo,Mais de uma unidade local,33,13646,13.04,85.43,100,100
+12,Fabricação de produtos do fumo,Mais de uma unidade local - não diversificada,5,61,1.98,0.38,15.15,0.45
+12,Fabricação de produtos do fumo,Mais de uma unidade local - diversificada,28,13585,11.07,85.04,84.85,99.55
+12,Fabricação de produtos do fumo,Mais de uma unidade local - diversificada - espacial,3,63,1.19,0.39,9.09,0.46
+12,Fabricação de produtos do fumo,Mais de uma unidade local - diversificada - atividade,5,89,1.98,0.56,15.15,0.65
+12,Fabricação de produtos do fumo,Mais de uma unidade local - diversificada - mista,20,13433,7.91,84.09,60.61,98.44
+13,Fabricação de produtos têxteis,Unidade local única,10197,137709,93.41,53.7,,
+13,Fabricação de produtos têxteis,Mais de uma unidade local,719,118725,6.59,46.3,100,100
+13,Fabricação de produtos têxteis,Mais de uma unidade local - não diversificada,225,20780,2.06,8.1,31.29,17.5
+13,Fabricação de produtos têxteis,Mais de uma unidade local - diversificada,494,97945,4.53,38.2,68.71,82.5
+13,Fabricação de produtos têxteis,Mais de uma unidade local - diversificada - espacial,44,12019,0.4,4.69,6.12,10.12
+13,Fabricação de produtos têxteis,Mais de uma unidade local - diversificada - atividade,300,32157,2.75,12.54,41.72,27.09
+13,Fabricação de produtos têxteis,Mais de uma unidade local - diversificada - mista,150,53769,1.37,20.97,20.86,45.29
+14,Confecção de artigos do vestuário e acessórios,Unidade local única,48733,411313,91.46,65.82,,
+14,Confecção de artigos do vestuário e acessórios,Mais de uma unidade local,4549,213620,8.54,34.18,100,100
+14,Confecção de artigos do vestuário e acessórios,Mais de uma unidade local - não diversificada,1349,43234,2.53,6.92,29.65,20.24
+14,Confecção de artigos do vestuário e acessórios,Mais de uma unidade local - diversificada,3200,170386,6.01,27.26,70.35,79.76
+14,Confecção de artigos do vestuário e acessórios,Mais de uma unidade local - diversificada - espacial,155,22098,0.29,3.54,3.41,10.34
+14,Confecção de artigos do vestuário e acessórios,Mais de uma unidade local - diversificada - atividade,2603,72445,4.89,11.59,57.22,33.91
+14,Confecção de artigos do vestuário e acessórios,Mais de uma unidade local - diversificada - mista,442,75843,0.83,12.14,9.72,35.5
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",Unidade local única,10957,142794,95.62,42.71,,
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",Mais de uma unidade local,502,191512,4.38,57.29,100,100
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",Mais de uma unidade local - não diversificada,164,34098,1.43,10.2,32.67,17.8
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",Mais de uma unidade local - diversificada,338,157414,2.95,47.09,67.33,82.2
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",Mais de uma unidade local - diversificada - espacial,60,28178,0.52,8.43,11.95,14.71
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",Mais de uma unidade local - diversificada - atividade,192,22935,1.68,6.86,38.25,11.98
+15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",Mais de uma unidade local - diversificada - mista,86,106301,0.75,31.8,17.13,55.51
+16,Fabricação de produtos de madeira,Unidade local única,14806,130089,95.09,69.87,,
+16,Fabricação de produtos de madeira,Mais de uma unidade local,764,56095,4.91,30.13,100,100
+16,Fabricação de produtos de madeira,Mais de uma unidade local - não diversificada,272,9811,1.75,5.27,35.6,17.49
+16,Fabricação de produtos de madeira,Mais de uma unidade local - diversificada,492,46284,3.16,24.86,64.4,82.51
+16,Fabricação de produtos de madeira,Mais de uma unidade local - diversificada - espacial,60,7819,0.39,4.2,7.85,13.94
+16,Fabricação de produtos de madeira,Mais de uma unidade local - diversificada - atividade,338,13126,2.17,7.05,44.24,23.4
+16,Fabricação de produtos de madeira,Mais de uma unidade local - diversificada - mista,94,25339,0.6,13.61,12.3,45.17
+17,"Fabricação de celulose, papel e produtos de papel",Unidade local única,4568,76843,93,39.07,,
+17,"Fabricação de celulose, papel e produtos de papel",Mais de uma unidade local,344,119841,7,60.93,100,100
+17,"Fabricação de celulose, papel e produtos de papel",Mais de uma unidade local - não diversificada,99,13547,2.02,6.89,28.78,11.3
+17,"Fabricação de celulose, papel e produtos de papel",Mais de uma unidade local - diversificada,245,106294,4.99,54.04,71.22,88.7
+17,"Fabricação de celulose, papel e produtos de papel",Mais de uma unidade local - diversificada - espacial,34,6490,0.69,3.3,9.88,5.42
+17,"Fabricação de celulose, papel e produtos de papel",Mais de uma unidade local - diversificada - atividade,119,15484,2.42,7.87,34.59,12.92
+17,"Fabricação de celulose, papel e produtos de papel",Mais de uma unidade local - diversificada - mista,92,84320,1.87,42.87,26.74,70.36
+18,Impressão e reprodução de gravações,Unidade local única,18789,97250,98.58,80.21,,
+18,Impressão e reprodução de gravações,Mais de uma unidade local,271,24001,1.42,19.79,100,100
+18,Impressão e reprodução de gravações,Mais de uma unidade local - não diversificada,107,2602,0.56,2.15,39.48,10.84
+18,Impressão e reprodução de gravações,Mais de uma unidade local - diversificada,164,21399,0.86,17.65,60.52,89.16
+18,Impressão e reprodução de gravações,Mais de uma unidade local - diversificada - espacial,23,2028,0.12,1.67,8.49,8.45
+18,Impressão e reprodução de gravações,Mais de uma unidade local - diversificada - atividade,100,3717,0.52,3.07,36.9,15.49
+18,Impressão e reprodução de gravações,Mais de uma unidade local - diversificada - mista,41,15654,0.22,12.91,15.13,65.22
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",Unidade local única,441,66015,73.99,24.61,,
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",Mais de uma unidade local,155,202284,26.01,75.39,100,100
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",Mais de uma unidade local - não diversificada,24,16582,4.03,6.18,15.48,8.2
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",Mais de uma unidade local - diversificada,131,185702,21.98,69.21,84.52,91.8
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",Mais de uma unidade local - diversificada - espacial,16,11241,2.68,4.19,10.32,5.56
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",Mais de uma unidade local - diversificada - atividade,53,51914,8.89,19.35,34.19,25.66
+19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",Mais de uma unidade local - diversificada - mista,62,122547,10.4,45.68,40,60.58
+20,Fabricação de produtos químicos,Unidade local única,8835,111808,88.02,35.76,,
+20,Fabricação de produtos químicos,Mais de uma unidade local,1202,200887,11.98,64.24,100,100
+20,Fabricação de produtos químicos,Mais de uma unidade local - não diversificada,281,18759,2.8,6,23.38,9.34
+20,Fabricação de produtos químicos,Mais de uma unidade local - diversificada,921,182128,9.18,58.24,76.62,90.66
+20,Fabricação de produtos químicos,Mais de uma unidade local - diversificada - espacial,151,19412,1.5,6.21,12.56,9.66
+20,Fabricação de produtos químicos,Mais de uma unidade local - diversificada - atividade,371,28268,3.7,9.04,30.87,14.07
+20,Fabricação de produtos químicos,Mais de uma unidade local - diversificada - mista,399,134448,3.98,43,33.19,66.93
+21,Fabricação de produtos farmoquímicos e farmacêuticos,Unidade local única,486,19086,72.97,17.13,,
+21,Fabricação de produtos farmoquímicos e farmacêuticos,Mais de uma unidade local,180,92340,27.03,82.87,100,100
+21,Fabricação de produtos farmoquímicos e farmacêuticos,Mais de uma unidade local - não diversificada,38,6230,5.71,5.59,21.11,6.75
+21,Fabricação de produtos farmoquímicos e farmacêuticos,Mais de uma unidade local - diversificada,142,86110,21.32,77.28,78.89,93.25
+21,Fabricação de produtos farmoquímicos e farmacêuticos,Mais de uma unidade local - diversificada - espacial,16,12214,2.4,10.96,8.89,13.23
+21,Fabricação de produtos farmoquímicos e farmacêuticos,Mais de uma unidade local - diversificada - atividade,68,12457,10.21,11.18,37.78,13.49
+21,Fabricação de produtos farmoquímicos e farmacêuticos,Mais de uma unidade local - diversificada - mista,58,61439,8.71,55.14,32.22,66.54
+22,Fabricação de produtos de borracha e de material plástico,Unidade local única,15050,239586,94.43,60.31,,
+22,Fabricação de produtos de borracha e de material plástico,Mais de uma unidade local,888,157680,5.57,39.69,100,100
+22,Fabricação de produtos de borracha e de material plástico,Mais de uma unidade local - não diversificada,335,34749,2.1,8.75,37.73,22.04
+22,Fabricação de produtos de borracha e de material plástico,Mais de uma unidade local - diversificada,553,122931,3.47,30.94,62.27,77.96
+22,Fabricação de produtos de borracha e de material plástico,Mais de uma unidade local - diversificada - espacial,140,32956,0.88,8.3,15.77,20.9
+22,Fabricação de produtos de borracha e de material plástico,Mais de uma unidade local - diversificada - atividade,248,19657,1.56,4.95,27.93,12.47
+22,Fabricação de produtos de borracha e de material plástico,Mais de uma unidade local - diversificada - mista,165,70318,1.04,17.7,18.58,44.6
+23,Fabricação de produtos de minerais não-metálicos,Unidade local única,27486,270124,95.07,65.4,,
+23,Fabricação de produtos de minerais não-metálicos,Mais de uma unidade local,1425,142902,4.93,34.6,100,100
+23,Fabricação de produtos de minerais não-metálicos,Mais de uma unidade local - não diversificada,483,22912,1.67,5.55,33.89,16.03
+23,Fabricação de produtos de minerais não-metálicos,Mais de uma unidade local - diversificada,942,119990,3.26,29.05,66.11,83.97
+23,Fabricação de produtos de minerais não-metálicos,Mais de uma unidade local - diversificada - espacial,122,12471,0.42,3.02,8.56,8.73
+23,Fabricação de produtos de minerais não-metálicos,Mais de uma unidade local - diversificada - atividade,608,29560,2.1,7.16,42.67,20.69
+23,Fabricação de produtos de minerais não-metálicos,Mais de uma unidade local - diversificada - mista,212,77959,0.73,18.88,14.88,54.55
+24,Metalurgia,Unidade local única,3208,64731,90.54,29.66,,
+24,Metalurgia,Mais de uma unidade local,335,153549,9.46,70.34,100,100
+24,Metalurgia,Mais de uma unidade local - não diversificada,85,11078,2.4,5.08,25.37,7.21
+24,Metalurgia,Mais de uma unidade local - diversificada,250,142471,7.06,65.27,74.63,92.79
+24,Metalurgia,Mais de uma unidade local - diversificada - espacial,31,16030,0.87,7.34,9.25,10.44
+24,Metalurgia,Mais de uma unidade local - diversificada - atividade,104,24158,2.94,11.07,31.04,15.73
+24,Metalurgia,Mais de uma unidade local - diversificada - mista,115,102283,3.25,46.86,34.33,66.61
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",Unidade local única,43426,362467,97.7,77.67,,
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",Mais de uma unidade local,1022,104181,2.3,22.33,100,100
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",Mais de uma unidade local - não diversificada,364,18531,0.82,3.97,35.62,17.79
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",Mais de uma unidade local - diversificada,658,85650,1.48,18.35,64.38,82.21
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",Mais de uma unidade local - diversificada - espacial,108,18264,0.24,3.91,10.57,17.53
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",Mais de uma unidade local - diversificada - atividade,373,18216,0.84,3.9,36.5,17.48
+25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",Mais de uma unidade local - diversificada - mista,177,49170,0.4,10.54,17.32,47.2
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",Unidade local única,3682,50077,92.54,39.5,,
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",Mais de uma unidade local,297,76694,7.46,60.5,100,100
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",Mais de uma unidade local - não diversificada,62,10657,1.56,8.41,20.88,13.9
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",Mais de uma unidade local - diversificada,235,66037,5.91,52.09,79.12,86.1
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",Mais de uma unidade local - diversificada - espacial,40,5198,1.01,4.1,13.47,6.78
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",Mais de uma unidade local - diversificada - atividade,57,6111,1.43,4.82,19.19,7.97
+26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",Mais de uma unidade local - diversificada - mista,138,54728,3.47,43.17,46.46,71.36
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",Unidade local única,4847,82035,92.39,38.39,,
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",Mais de uma unidade local,399,131659,7.61,61.61,100,100
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",Mais de uma unidade local - não diversificada,93,7493,1.77,3.51,23.31,5.69
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",Mais de uma unidade local - diversificada,306,124166,5.83,58.1,76.69,94.31
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",Mais de uma unidade local - diversificada - espacial,51,7087,0.97,3.32,12.78,5.38
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",Mais de uma unidade local - diversificada - atividade,109,17591,2.08,8.23,27.32,13.36
+27,"Fabricação de máquinas, aparelhos e materiais elétricos",Mais de uma unidade local - diversificada - mista,146,99488,2.78,46.56,36.59,75.56
+28,Fabricação de máquinas e equipamentos,Unidade local única,15731,217322,94.91,59.22,,
+28,Fabricação de máquinas e equipamentos,Mais de uma unidade local,844,149629,5.09,40.78,100,100
+28,Fabricação de máquinas e equipamentos,Mais de uma unidade local - não diversificada,225,22965,1.36,6.26,26.66,15.35
+28,Fabricação de máquinas e equipamentos,Mais de uma unidade local - diversificada,619,126664,3.73,34.52,73.34,84.65
+28,Fabricação de máquinas e equipamentos,Mais de uma unidade local - diversificada - espacial,109,9710,0.66,2.65,12.91,6.49
+28,Fabricação de máquinas e equipamentos,Mais de uma unidade local - diversificada - atividade,258,33205,1.56,9.05,30.57,22.19
+28,Fabricação de máquinas e equipamentos,Mais de uma unidade local - diversificada - mista,252,83749,1.52,22.82,29.86,55.97
+29,"Fabricação de veículos automotores, reboques e carrocerias",Unidade local única,6399,141545,94.16,31.82,,
+29,"Fabricação de veículos automotores, reboques e carrocerias",Mais de uma unidade local,397,303257,5.84,68.18,100,100
+29,"Fabricação de veículos automotores, reboques e carrocerias",Mais de uma unidade local - não diversificada,106,19324,1.56,4.34,26.7,6.37
+29,"Fabricação de veículos automotores, reboques e carrocerias",Mais de uma unidade local - diversificada,291,283933,4.28,63.83,73.3,93.63
+29,"Fabricação de veículos automotores, reboques e carrocerias",Mais de uma unidade local - diversificada - espacial,62,28330,0.91,6.37,15.62,9.34
+29,"Fabricação de veículos automotores, reboques e carrocerias",Mais de uma unidade local - diversificada - atividade,112,28415,1.65,6.39,28.21,9.37
+29,"Fabricação de veículos automotores, reboques e carrocerias",Mais de uma unidade local - diversificada - mista,117,227188,1.72,51.08,29.47,74.92
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",Unidade local única,1437,30715,91.65,40.69,,
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",Mais de uma unidade local,131,44767,8.35,59.31,100,100
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",Mais de uma unidade local - não diversificada,33,4570,2.1,6.05,25.19,10.21
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",Mais de uma unidade local - diversificada,98,40197,6.25,53.25,74.81,89.79
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",Mais de uma unidade local - diversificada - espacial,16,3457,1.02,4.58,12.21,7.72
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",Mais de uma unidade local - diversificada - atividade,45,9072,2.87,12.02,34.35,20.26
+30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",Mais de uma unidade local - diversificada - mista,37,27668,2.36,36.66,28.24,61.8
+31,Fabricação de móveis,Unidade local única,22226,199304,95.83,74.21,,
+31,Fabricação de móveis,Mais de uma unidade local,967,69259,4.17,25.79,100,100
+31,Fabricação de móveis,Mais de uma unidade local - não diversificada,303,23787,1.31,8.86,31.33,34.34
+31,Fabricação de móveis,Mais de uma unidade local - diversificada,664,45472,2.86,16.93,68.67,65.66
+31,Fabricação de móveis,Mais de uma unidade local - diversificada - espacial,30,6540,0.13,2.44,3.1,9.44
+31,Fabricação de móveis,Mais de uma unidade local - diversificada - atividade,548,18941,2.36,7.05,56.67,27.35
+31,Fabricação de móveis,Mais de uma unidade local - diversificada - mista,86,19991,0.37,7.44,8.89,28.86
+32,Fabricação de produtos diversos,Unidade local única,15345,121668,95,67.62,,
+32,Fabricação de produtos diversos,Mais de uma unidade local,808,58274,5,32.38,100,100
+32,Fabricação de produtos diversos,Mais de uma unidade local - não diversificada,338,11527,2.09,6.41,41.83,19.78
+32,Fabricação de produtos diversos,Mais de uma unidade local - diversificada,470,46747,2.91,25.98,58.17,80.22
+32,Fabricação de produtos diversos,Mais de uma unidade local - diversificada - espacial,39,3317,0.24,1.84,4.83,5.69
+32,Fabricação de produtos diversos,Mais de uma unidade local - diversificada - atividade,283,10749,1.75,5.97,35.02,18.45
+32,Fabricação de produtos diversos,Mais de uma unidade local - diversificada - mista,148,32681,0.92,18.16,18.32,56.08
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",Unidade local única,37133,192563,98.6,74.46,,
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",Mais de uma unidade local,528,66066,1.4,25.54,100,100
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",Mais de uma unidade local - não diversificada,167,5291,0.44,2.05,31.63,8.01
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",Mais de uma unidade local - diversificada,361,60775,0.96,23.5,68.37,91.99
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",Mais de uma unidade local - diversificada - espacial,123,14363,0.33,5.55,23.3,21.74
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",Mais de uma unidade local - diversificada - atividade,122,7167,0.32,2.77,23.11,10.85
+33,"Manutenção, reparação e instalação de máquinas e equipamentos",Mais de uma unidade local - diversificada - mista,116,39245,0.31,15.17,21.97,59.4
+D,Eletricidade e gás,Unidade local única,4313,41082,86.9,29.9,,
+D,Eletricidade e gás,Mais de uma unidade local,650,96325,13.1,70.1,100,100
+D,Eletricidade e gás,Mais de uma unidade local - não diversificada,197,16427,3.97,11.95,30.31,17.05
+D,Eletricidade e gás,Mais de uma unidade local - diversificada,453,79898,9.13,58.15,69.69,82.95
+D,Eletricidade e gás,Mais de uma unidade local - diversificada - espacial,406,52116,8.18,37.93,62.46,54.1
+D,Eletricidade e gás,Mais de uma unidade local - diversificada - atividade,14,4486,0.28,3.26,2.15,4.66
+D,Eletricidade e gás,Mais de uma unidade local - diversificada - mista,33,23296,0.66,16.95,5.08,24.18
+35,"Eletricidade, gás e outras utilidades",Unidade local única,4313,41082,86.9,29.9,,
+35,"Eletricidade, gás e outras utilidades",Mais de uma unidade local,650,96325,13.1,70.1,100,100
+35,"Eletricidade, gás e outras utilidades",Mais de uma unidade local - não diversificada,197,16427,3.97,11.95,30.31,17.05
+35,"Eletricidade, gás e outras utilidades",Mais de uma unidade local - diversificada,453,79898,9.13,58.15,69.69,82.95
+35,"Eletricidade, gás e outras utilidades",Mais de uma unidade local - diversificada - espacial,406,52116,8.18,37.93,62.46,54.1
+35,"Eletricidade, gás e outras utilidades",Mais de uma unidade local - diversificada - atividade,14,4486,0.28,3.26,2.15,4.66
+35,"Eletricidade, gás e outras utilidades",Mais de uma unidade local - diversificada - mista,33,23296,0.66,16.95,5.08,24.18
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Unidade local única,10760,202612,95.12,54.84,,
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Mais de uma unidade local,552,166871,4.88,45.16,100,100
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Mais de uma unidade local - não diversificada,226,44033,2,11.92,40.94,26.39
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Mais de uma unidade local - diversificada,326,122838,2.88,33.25,59.06,73.61
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Mais de uma unidade local - diversificada - espacial,75,25772,0.66,6.98,13.59,15.44
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Mais de uma unidade local - diversificada - atividade,166,52429,1.47,14.19,30.07,31.42
+E,"Água, esgoto, atividades de gestão de resíduos e descontaminação",Mais de uma unidade local - diversificada - mista,85,44637,0.75,12.08,15.4,26.75
+36,"Captação, tratamento e distribuição de água",Unidade local única,1079,49456,95.4,45.43,,
+36,"Captação, tratamento e distribuição de água",Mais de uma unidade local,52,59400,4.6,54.57,100,100
+36,"Captação, tratamento e distribuição de água",Mais de uma unidade local - não diversificada,31,29782,2.74,27.36,59.62,50.14
+36,"Captação, tratamento e distribuição de água",Mais de uma unidade local - diversificada,21,29618,1.86,27.21,40.38,49.86
+36,"Captação, tratamento e distribuição de água",Mais de uma unidade local - diversificada - espacial,4,1165,0.35,1.07,7.69,1.96
+36,"Captação, tratamento e distribuição de água",Mais de uma unidade local - diversificada - atividade,13,27689,1.15,25.44,25,46.61
+36,"Captação, tratamento e distribuição de água",Mais de uma unidade local - diversificada - mista,4,764,0.35,0.7,7.69,1.29
+37,Esgoto e atividades relacionadas,Unidade local única,1313,10898,97.04,72.09,,
+37,Esgoto e atividades relacionadas,Mais de uma unidade local,40,4220,2.96,27.91,100,100
+37,Esgoto e atividades relacionadas,Mais de uma unidade local - não diversificada,16,1990,1.18,13.16,40,47.16
+37,Esgoto e atividades relacionadas,Mais de uma unidade local - diversificada,24,2230,1.77,14.75,60,52.84
+37,Esgoto e atividades relacionadas,Mais de uma unidade local - diversificada - espacial,7,647,0.52,4.28,17.5,15.33
+37,Esgoto e atividades relacionadas,Mais de uma unidade local - diversificada - atividade,13,1213,0.96,8.02,32.5,28.74
+37,Esgoto e atividades relacionadas,Mais de uma unidade local - diversificada - mista,4,370,0.3,2.45,10,8.77
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",Unidade local única,8250,140906,94.84,57.8,,
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",Mais de uma unidade local,449,102857,5.16,42.2,100,100
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",Mais de uma unidade local - não diversificada,173,12113,1.99,4.97,38.53,11.78
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",Mais de uma unidade local - diversificada,276,90744,3.17,37.23,61.47,88.22
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",Mais de uma unidade local - diversificada - espacial,63,23957,0.72,9.83,14.03,23.29
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",Mais de uma unidade local - diversificada - atividade,138,23497,1.59,9.64,30.73,22.84
+38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",Mais de uma unidade local - diversificada - mista,75,43290,0.86,17.76,16.7,42.09
+39,Descontaminação e outros serviços de gestão de resíduos,Unidade local única,118,1352,91.47,77.43,,
+39,Descontaminação e outros serviços de gestão de resíduos,Mais de uma unidade local,11,394,8.53,22.57,100,100
+39,Descontaminação e outros serviços de gestão de resíduos,Mais de uma unidade local - não diversificada,6,148,4.65,8.48,54.55,37.56
+39,Descontaminação e outros serviços de gestão de resíduos,Mais de uma unidade local - diversificada,5,246,3.88,14.09,45.45,62.44
+39,Descontaminação e outros serviços de gestão de resíduos,Mais de uma unidade local - diversificada - espacial,1,,,,,
+39,Descontaminação e outros serviços de gestão de resíduos,Mais de uma unidade local - diversificada - atividade,2,,,,,
+39,Descontaminação e outros serviços de gestão de resíduos,Mais de uma unidade local - diversificada - mista,2,,,,,
+F,Construção,Unidade local única,265831,1722816,98.01,75.42,,
+F,Construção,Mais de uma unidade local,5407,561603,1.99,24.58,100,100
+F,Construção,Mais de uma unidade local - não diversificada,2156,57360,0.79,2.51,39.87,10.21
+F,Construção,Mais de uma unidade local - diversificada,3251,504243,1.2,22.07,60.13,89.79
+F,Construção,Mais de uma unidade local - diversificada - espacial,846,146036,0.31,6.39,15.65,26
+F,Construção,Mais de uma unidade local - diversificada - atividade,1723,73060,0.64,3.2,31.87,13.01
+F,Construção,Mais de uma unidade local - diversificada - mista,682,285147,0.25,12.48,12.61,50.77
+41,Construção de edifícios,Unidade local única,143591,805428,97.58,87.09,,
+41,Construção de edifícios,Mais de uma unidade local,3556,119386,2.42,12.91,100,100
+41,Construção de edifícios,Mais de uma unidade local - não diversificada,1686,18340,1.15,1.98,47.41,15.36
+41,Construção de edifícios,Mais de uma unidade local - diversificada,1870,101046,1.27,10.93,52.59,84.64
+41,Construção de edifícios,Mais de uma unidade local - diversificada - espacial,411,33603,0.28,3.63,11.56,28.15
+41,Construção de edifícios,Mais de uma unidade local - diversificada - atividade,1208,34879,0.82,3.77,33.97,29.22
+41,Construção de edifícios,Mais de uma unidade local - diversificada - mista,251,32564,0.17,3.52,7.06,27.28
+42,Obras de infraestrutura,Unidade local única,21124,335101,96.22,53.3,,
+42,Obras de infraestrutura,Mais de uma unidade local,829,293576,3.78,46.7,100,100
+42,Obras de infraestrutura,Mais de uma unidade local - não diversificada,178,27412,0.81,4.36,21.47,9.34
+42,Obras de infraestrutura,Mais de uma unidade local - diversificada,651,266164,2.97,42.34,78.53,90.66
+42,Obras de infraestrutura,Mais de uma unidade local - diversificada - espacial,222,57622,1.01,9.17,26.78,19.63
+42,Obras de infraestrutura,Mais de uma unidade local - diversificada - atividade,200,27032,0.91,4.3,24.13,9.21
+42,Obras de infraestrutura,Mais de uma unidade local - diversificada - mista,229,181510,1.04,28.87,27.62,61.83
+43,Serviços especializados para construção,Unidade local única,101116,582287,99,79.66,,
+43,Serviços especializados para construção,Mais de uma unidade local,1022,148641,1,20.34,100,100
+43,Serviços especializados para construção,Mais de uma unidade local - não diversificada,292,11608,0.29,1.59,28.57,7.81
+43,Serviços especializados para construção,Mais de uma unidade local - diversificada,730,137033,0.71,18.75,71.43,92.19
+43,Serviços especializados para construção,Mais de uma unidade local - diversificada - espacial,213,54811,0.21,7.5,20.84,36.87
+43,Serviços especializados para construção,Mais de uma unidade local - diversificada - atividade,315,11149,0.31,1.53,30.82,7.5
+43,Serviços especializados para construção,Mais de uma unidade local - diversificada - mista,202,71073,0.2,9.72,19.77,47.82
+G,Comércio; reparação de veículos automotores e motocicletas,Unidade local única,1702472,7150460,94.92,63,,
+G,Comércio; reparação de veículos automotores e motocicletas,Mais de uma unidade local,91065,4198818,5.08,37,100,100
+G,Comércio; reparação de veículos automotores e motocicletas,Mais de uma unidade local - não diversificada,64383,1448621,3.59,12.76,70.7,34.5
+G,Comércio; reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada,26682,2750197,1.49,24.23,29.3,65.5
+G,Comércio; reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada - espacial,8342,441775,0.47,3.89,9.16,10.52
+G,Comércio; reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada - atividade,14619,779667,0.82,6.87,16.05,18.57
+G,Comércio; reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada - mista,3721,1528755,0.21,13.47,4.09,36.41
+45,Comércio e reparação de veículos automotores e motocicletas,Unidade local única,227818,903695,96.86,72.64,,
+45,Comércio e reparação de veículos automotores e motocicletas,Mais de uma unidade local,7376,340435,3.14,27.36,100,100
+45,Comércio e reparação de veículos automotores e motocicletas,Mais de uma unidade local - não diversificada,5029,181596,2.14,14.6,68.18,53.34
+45,Comércio e reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada,2347,158839,1,12.77,31.82,46.66
+45,Comércio e reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada - espacial,1054,75791,0.45,6.09,14.29,22.26
+45,Comércio e reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada - atividade,1018,39265,0.43,3.16,13.8,11.53
+45,Comércio e reparação de veículos automotores e motocicletas,Mais de uma unidade local - diversificada - mista,275,43783,0.12,3.52,3.73,12.86
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",Unidade local única,275955,1094029,94.9,56.8,,
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",Mais de uma unidade local,14824,832010,5.1,43.2,100,100
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",Mais de uma unidade local - não diversificada,5144,149903,1.77,7.78,34.7,18.02
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",Mais de uma unidade local - diversificada,9680,682107,3.33,35.42,65.3,81.98
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",Mais de uma unidade local - diversificada - espacial,3914,175132,1.35,9.09,26.4,21.05
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",Mais de uma unidade local - diversificada - atividade,3574,159957,1.23,8.3,24.11,19.23
+46,"Comércio por atacado, exceto veículos automotores e motocicletas",Mais de uma unidade local - diversificada - mista,2192,347018,0.75,18.02,14.79,41.71
+47,Comércio varejista,Unidade local única,1198699,5152736,94.57,63,,
+47,Comércio varejista,Mais de uma unidade local,68865,3026373,5.43,37,100,100
+47,Comércio varejista,Mais de uma unidade local - não diversificada,54210,1117122,4.28,13.66,78.72,36.91
+47,Comércio varejista,Mais de uma unidade local - diversificada,14655,1909251,1.16,23.34,21.28,63.09
+47,Comércio varejista,Mais de uma unidade local - diversificada - espacial,3374,190852,0.27,2.33,4.9,6.31
+47,Comércio varejista,Mais de uma unidade local - diversificada - atividade,10027,580445,0.79,7.1,14.56,19.18
+47,Comércio varejista,Mais de uma unidade local - diversificada - mista,1254,1137954,0.1,13.91,1.82,37.6
+H,"Transporte, armazenagem e correio",Unidade local única,213944,1401234,95.12,53.1,,
+H,"Transporte, armazenagem e correio",Mais de uma unidade local,10985,1237459,4.88,46.9,100,100
+H,"Transporte, armazenagem e correio",Mais de uma unidade local - não diversificada,3873,264097,1.72,10.01,35.26,21.34
+H,"Transporte, armazenagem e correio",Mais de uma unidade local - diversificada,7112,973362,3.16,36.89,64.74,78.66
+H,"Transporte, armazenagem e correio",Mais de uma unidade local - diversificada - espacial,5101,470872,2.27,17.84,46.44,38.05
+H,"Transporte, armazenagem e correio",Mais de uma unidade local - diversificada - atividade,1051,57587,0.47,2.18,9.57,4.65
+H,"Transporte, armazenagem e correio",Mais de uma unidade local - diversificada - mista,960,444903,0.43,16.86,8.74,35.95
+49,Transporte terrestre,Unidade local única,174136,1068427,95.98,57.07,,
+49,Transporte terrestre,Mais de uma unidade local,7291,803590,4.02,42.93,100,100
+49,Transporte terrestre,Mais de uma unidade local - não diversificada,1839,211341,1.01,11.29,25.22,26.3
+49,Transporte terrestre,Mais de uma unidade local - diversificada,5452,592249,3.01,31.64,74.78,73.7
+49,Transporte terrestre,Mais de uma unidade local - diversificada - espacial,4330,394333,2.39,21.06,59.39,49.07
+49,Transporte terrestre,Mais de uma unidade local - diversificada - atividade,589,29689,0.32,1.59,8.08,3.69
+49,Transporte terrestre,Mais de uma unidade local - diversificada - mista,533,168227,0.29,8.99,7.31,20.93
+50,Transporte aquaviário,Unidade local única,1517,13140,89.6,31.64,,
+50,Transporte aquaviário,Mais de uma unidade local,176,28387,10.4,68.36,100,100
+50,Transporte aquaviário,Mais de uma unidade local - não diversificada,49,5661,2.89,13.63,27.84,19.94
+50,Transporte aquaviário,Mais de uma unidade local - diversificada,127,22726,7.5,54.73,72.16,80.06
+50,Transporte aquaviário,Mais de uma unidade local - diversificada - espacial,55,7070,3.25,17.03,31.25,24.91
+50,Transporte aquaviário,Mais de uma unidade local - diversificada - atividade,37,5295,2.19,12.75,21.02,18.65
+50,Transporte aquaviário,Mais de uma unidade local - diversificada - mista,35,10361,2.07,24.95,19.89,36.5
+51,Transporte aéreo,Unidade local única,381,2470,81.06,3.96,,
+51,Transporte aéreo,Mais de uma unidade local,89,59911,18.94,96.04,100,100
+51,Transporte aéreo,Mais de uma unidade local - não diversificada,20,513,4.26,0.82,22.47,0.86
+51,Transporte aéreo,Mais de uma unidade local - diversificada,69,59398,14.68,95.22,77.53,99.14
+51,Transporte aéreo,Mais de uma unidade local - diversificada - espacial,48,6491,10.21,10.41,53.93,10.83
+51,Transporte aéreo,Mais de uma unidade local - diversificada - atividade,4,47,0.85,0.08,4.49,0.08
+51,Transporte aéreo,Mais de uma unidade local - diversificada - mista,17,52860,3.62,84.74,19.1,88.23
+52,Armazenamento e atividades auxiliares dos transportes,Unidade local única,29997,253481,90.33,51.73,,
+52,Armazenamento e atividades auxiliares dos transportes,Mais de uma unidade local,3212,236551,9.67,48.27,100,100
+52,Armazenamento e atividades auxiliares dos transportes,Mais de uma unidade local - não diversificada,1849,44054,5.57,8.99,57.57,18.62
+52,Armazenamento e atividades auxiliares dos transportes,Mais de uma unidade local - diversificada,1363,192497,4.1,39.28,42.43,81.38
+52,Armazenamento e atividades auxiliares dos transportes,Mais de uma unidade local - diversificada - espacial,630,61966,1.9,12.65,19.61,26.2
+52,Armazenamento e atividades auxiliares dos transportes,Mais de uma unidade local - diversificada - atividade,386,21967,1.16,4.48,12.02,9.29
+52,Armazenamento e atividades auxiliares dos transportes,Mais de uma unidade local - diversificada - mista,347,108564,1.04,22.15,10.8,45.89
+53,Correio e outras atividades de entrega,Unidade local única,7913,63716,97.33,36.89,,
+53,Correio e outras atividades de entrega,Mais de uma unidade local,217,109020,2.67,63.11,100,100
+53,Correio e outras atividades de entrega,Mais de uma unidade local - não diversificada,116,2528,1.43,1.46,53.46,2.32
+53,Correio e outras atividades de entrega,Mais de uma unidade local - diversificada,101,106492,1.24,61.65,46.54,97.68
+53,Correio e outras atividades de entrega,Mais de uma unidade local - diversificada - espacial,38,1012,0.47,0.59,17.51,0.93
+53,Correio e outras atividades de entrega,Mais de uma unidade local - diversificada - atividade,35,589,0.43,0.34,16.13,0.54
+53,Correio e outras atividades de entrega,Mais de uma unidade local - diversificada - mista,28,104891,0.34,60.72,12.9,96.21
+I,Alojamento e alimentação,Unidade local única,280030,1812764,96.38,78.57,,
+I,Alojamento e alimentação,Mais de uma unidade local,10519,494415,3.62,21.43,100,100
+I,Alojamento e alimentação,Mais de uma unidade local - não diversificada,8109,168326,2.79,7.3,77.09,34.05
+I,Alojamento e alimentação,Mais de uma unidade local - diversificada,2410,326089,0.83,14.13,22.91,65.95
+I,Alojamento e alimentação,Mais de uma unidade local - diversificada - espacial,498,101876,0.17,4.42,4.73,20.61
+I,Alojamento e alimentação,Mais de uma unidade local - diversificada - atividade,1726,50030,0.59,2.17,16.41,10.12
+I,Alojamento e alimentação,Mais de uma unidade local - diversificada - mista,186,174183,0.06,7.55,1.77,35.23
+55,Alojamento,Unidade local única,33875,313411,96.12,80.81,,
+55,Alojamento,Mais de uma unidade local,1366,74421,3.88,19.19,100,100
+55,Alojamento,Mais de uma unidade local - não diversificada,927,29664,2.63,7.65,67.86,39.86
+55,Alojamento,Mais de uma unidade local - diversificada,439,44757,1.25,11.54,32.14,60.14
+55,Alojamento,Mais de uma unidade local - diversificada - espacial,106,15293,0.3,3.94,7.76,20.55
+55,Alojamento,Mais de uma unidade local - diversificada - atividade,296,10417,0.84,2.69,21.67,14
+55,Alojamento,Mais de uma unidade local - diversificada - mista,37,19047,0.1,4.91,2.71,25.59
+56,Alimentação,Unidade local única,246155,1499353,96.41,78.12,,
+56,Alimentação,Mais de uma unidade local,9153,419994,3.59,21.88,100,100
+56,Alimentação,Mais de uma unidade local - não diversificada,7182,138662,2.81,7.22,78.47,33.02
+56,Alimentação,Mais de uma unidade local - diversificada,1971,281332,0.77,14.66,21.53,66.98
+56,Alimentação,Mais de uma unidade local - diversificada - espacial,392,86583,0.15,4.51,4.28,20.62
+56,Alimentação,Mais de uma unidade local - diversificada - atividade,1430,39613,0.56,2.06,15.62,9.43
+56,Alimentação,Mais de uma unidade local - diversificada - mista,149,155136,0.06,8.08,1.63,36.94
+J,Informação e comunicação,Unidade local única,153249,644403,97.63,55.07,,
+J,Informação e comunicação,Mais de uma unidade local,3715,525703,2.37,44.93,100,100
+J,Informação e comunicação,Mais de uma unidade local - não diversificada,1481,58714,0.94,5.02,39.87,11.17
+J,Informação e comunicação,Mais de uma unidade local - diversificada,2234,466989,1.42,39.91,60.13,88.83
+J,Informação e comunicação,Mais de uma unidade local - diversificada - espacial,1092,174942,0.7,14.95,29.39,33.28
+J,Informação e comunicação,Mais de uma unidade local - diversificada - atividade,632,33186,0.4,2.84,17.01,6.31
+J,Informação e comunicação,Mais de uma unidade local - diversificada - mista,510,258861,0.32,22.12,13.73,49.24
+58,Edição e edição integrada à impressão,Unidade local única,12434,49180,97.74,59.67,,
+58,Edição e edição integrada à impressão,Mais de uma unidade local,287,33245,2.26,40.33,100,100
+58,Edição e edição integrada à impressão,Mais de uma unidade local - não diversificada,116,5416,0.91,6.57,40.42,16.29
+58,Edição e edição integrada à impressão,Mais de uma unidade local - diversificada,171,27829,1.34,33.76,59.58,83.71
+58,Edição e edição integrada à impressão,Mais de uma unidade local - diversificada - espacial,37,3708,0.29,4.5,12.89,11.15
+58,Edição e edição integrada à impressão,Mais de uma unidade local - diversificada - atividade,82,4062,0.64,4.93,28.57,12.22
+58,Edição e edição integrada à impressão,Mais de uma unidade local - diversificada - mista,52,20059,0.41,24.34,18.12,60.34
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",Unidade local única,17055,36269,98.44,68.26,,
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",Mais de uma unidade local,270,16862,1.56,31.74,100,100
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",Mais de uma unidade local - não diversificada,104,2258,0.6,4.25,38.52,13.39
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",Mais de uma unidade local - diversificada,166,14604,0.96,27.49,61.48,86.61
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",Mais de uma unidade local - diversificada - espacial,101,9762,0.58,18.37,37.41,57.89
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",Mais de uma unidade local - diversificada - atividade,31,806,0.18,1.52,11.48,4.78
+59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",Mais de uma unidade local - diversificada - mista,34,4036,0.2,7.6,12.59,23.94
+60,Atividades de rádio e de televisão,Unidade local única,4227,43657,92.39,51.84,,
+60,Atividades de rádio e de televisão,Mais de uma unidade local,348,40552,7.61,48.16,100,100
+60,Atividades de rádio e de televisão,Mais de uma unidade local - não diversificada,254,8815,5.55,10.47,72.99,21.74
+60,Atividades de rádio e de televisão,Mais de uma unidade local - diversificada,94,31737,2.05,37.69,27.01,78.26
+60,Atividades de rádio e de televisão,Mais de uma unidade local - diversificada - espacial,58,9230,1.27,10.96,16.67,22.76
+60,Atividades de rádio e de televisão,Mais de uma unidade local - diversificada - atividade,20,1329,0.44,1.58,5.75,3.28
+60,Atividades de rádio e de televisão,Mais de uma unidade local - diversificada - mista,16,21178,0.35,25.15,4.6,52.22
+61,Telecomunicações,Unidade local única,14617,107287,93.11,42.76,,
+61,Telecomunicações,Mais de uma unidade local,1081,143609,6.89,57.24,100,100
+61,Telecomunicações,Mais de uma unidade local - não diversificada,495,13341,3.15,5.32,45.79,9.29
+61,Telecomunicações,Mais de uma unidade local - diversificada,586,130268,3.73,51.92,54.21,90.71
+61,Telecomunicações,Mais de uma unidade local - diversificada - espacial,182,17572,1.16,7,16.84,12.24
+61,Telecomunicações,Mais de uma unidade local - diversificada - atividade,287,8679,1.83,3.46,26.55,6.04
+61,Telecomunicações,Mais de uma unidade local - diversificada - mista,117,104017,0.75,41.46,10.82,72.43
+62,Atividades dos serviços de tecnologia da informação,Unidade local única,77476,310142,98.34,57.18,,
+62,Atividades dos serviços de tecnologia da informação,Mais de uma unidade local,1307,232225,1.66,42.82,100,100
+62,Atividades dos serviços de tecnologia da informação,Mais de uma unidade local - não diversificada,379,20654,0.48,3.81,29,8.89
+62,Atividades dos serviços de tecnologia da informação,Mais de uma unidade local - diversificada,928,211571,1.18,39.01,71,91.11
+62,Atividades dos serviços de tecnologia da informação,Mais de uma unidade local - diversificada - espacial,591,123715,0.75,22.81,45.22,53.27
+62,Atividades dos serviços de tecnologia da informação,Mais de uma unidade local - diversificada - atividade,132,8977,0.17,1.66,10.1,3.87
+62,Atividades dos serviços de tecnologia da informação,Mais de uma unidade local - diversificada - mista,205,78879,0.26,14.54,15.68,33.97
+63,Atividades de prestação de serviços de informação,Unidade local única,27440,97868,98.49,62.31,,
+63,Atividades de prestação de serviços de informação,Mais de uma unidade local,422,59210,1.51,37.69,100,100
+63,Atividades de prestação de serviços de informação,Mais de uma unidade local - não diversificada,133,8230,0.48,5.24,31.52,13.9
+63,Atividades de prestação de serviços de informação,Mais de uma unidade local - diversificada,289,50980,1.04,32.46,68.48,86.1
+63,Atividades de prestação de serviços de informação,Mais de uma unidade local - diversificada - espacial,123,10955,0.44,6.97,29.15,18.5
+63,Atividades de prestação de serviços de informação,Mais de uma unidade local - diversificada - atividade,80,9333,0.29,5.94,18.96,15.76
+63,Atividades de prestação de serviços de informação,Mais de uma unidade local - diversificada - mista,86,30692,0.31,19.54,20.38,51.84
+K,"Atividades financeiras, de seguros e serviços relacionados",Unidade local única,129546,351431,97.73,27.56,,
+K,"Atividades financeiras, de seguros e serviços relacionados",Mais de uma unidade local,3010,923726,2.27,72.44,100,100
+K,"Atividades financeiras, de seguros e serviços relacionados",Mais de uma unidade local - não diversificada,1318,78809,0.99,6.18,43.79,8.53
+K,"Atividades financeiras, de seguros e serviços relacionados",Mais de uma unidade local - diversificada,1692,844917,1.28,66.26,56.21,91.47
+K,"Atividades financeiras, de seguros e serviços relacionados",Mais de uma unidade local - diversificada - espacial,895,364335,0.68,28.57,29.73,39.44
+K,"Atividades financeiras, de seguros e serviços relacionados",Mais de uma unidade local - diversificada - atividade,542,121812,0.41,9.55,18.01,13.19
+K,"Atividades financeiras, de seguros e serviços relacionados",Mais de uma unidade local - diversificada - mista,255,358770,0.19,28.14,8.47,38.84
+64,Atividades de serviços financeiros,Unidade local única,81935,177201,98.47,21.48,,
+64,Atividades de serviços financeiros,Mais de uma unidade local,1273,647799,1.53,78.52,100,100
+64,Atividades de serviços financeiros,Mais de uma unidade local - não diversificada,551,50848,0.66,6.16,43.28,7.85
+64,Atividades de serviços financeiros,Mais de uma unidade local - diversificada,722,596951,0.87,72.36,56.72,92.15
+64,Atividades de serviços financeiros,Mais de uma unidade local - diversificada - espacial,415,310397,0.5,37.62,32.6,47.92
+64,Atividades de serviços financeiros,Mais de uma unidade local - diversificada - atividade,160,2826,0.19,0.34,12.57,0.44
+64,Atividades de serviços financeiros,Mais de uma unidade local - diversificada - mista,147,283728,0.18,34.39,11.55,43.8
+65,"Seguros, resseguros, previdência complementar e planos de saúde",Unidade local única,1170,22111,70.87,9.35,,
+65,"Seguros, resseguros, previdência complementar e planos de saúde",Mais de uma unidade local,481,214462,29.13,90.65,100,100
+65,"Seguros, resseguros, previdência complementar e planos de saúde",Mais de uma unidade local - não diversificada,100,18376,6.06,7.77,20.79,8.57
+65,"Seguros, resseguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada,381,196086,23.08,82.89,79.21,91.43
+65,"Seguros, resseguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada - espacial,90,30745,5.45,13,18.71,14.34
+65,"Seguros, resseguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada - atividade,261,113279,15.81,47.88,54.26,52.82
+65,"Seguros, resseguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada - mista,30,52062,1.82,22.01,6.24,24.28
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",Unidade local única,46441,152119,97.37,71.22,,
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",Mais de uma unidade local,1256,61465,2.63,28.78,100,100
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",Mais de uma unidade local - não diversificada,667,9585,1.4,4.49,53.11,15.59
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada,589,51880,1.23,24.29,46.89,84.41
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada - espacial,390,23193,0.82,10.86,31.05,37.73
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada - atividade,121,5707,0.25,2.67,9.63,9.28
+66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",Mais de uma unidade local - diversificada - mista,78,22980,0.16,10.76,6.21,37.39
+L,Atividades imobiliárias,Unidade local única,129214,335758,98.54,90.24,,
+L,Atividades imobiliárias,Mais de uma unidade local,1912,36312,1.46,9.76,100,100
+L,Atividades imobiliárias,Mais de uma unidade local - não diversificada,892,14319,0.68,3.85,46.65,39.43
+L,Atividades imobiliárias,Mais de uma unidade local - diversificada,1020,21993,0.78,5.91,53.35,60.57
+L,Atividades imobiliárias,Mais de uma unidade local - diversificada - espacial,256,6618,0.2,1.78,13.39,18.23
+L,Atividades imobiliárias,Mais de uma unidade local - diversificada - atividade,554,9407,0.42,2.53,28.97,25.91
+L,Atividades imobiliárias,Mais de uma unidade local - diversificada - mista,210,5968,0.16,1.6,10.98,16.44
+68,Atividades imobiliárias,Unidade local única,129214,335758,98.54,90.24,,
+68,Atividades imobiliárias,Mais de uma unidade local,1912,36312,1.46,9.76,100,100
+68,Atividades imobiliárias,Mais de uma unidade local - não diversificada,892,14319,0.68,3.85,46.65,39.43
+68,Atividades imobiliárias,Mais de uma unidade local - diversificada,1020,21993,0.78,5.91,53.35,60.57
+68,Atividades imobiliárias,Mais de uma unidade local - diversificada - espacial,256,6618,0.2,1.78,13.39,18.23
+68,Atividades imobiliárias,Mais de uma unidade local - diversificada - atividade,554,9407,0.42,2.53,28.97,25.91
+68,Atividades imobiliárias,Mais de uma unidade local - diversificada - mista,210,5968,0.16,1.6,10.98,16.44
+M,"Atividades profissionais, científicas e técnicas",Unidade local única,372766,1261424,98.72,81.55,,
+M,"Atividades profissionais, científicas e técnicas",Mais de uma unidade local,4830,285394,1.28,18.45,100,100
+M,"Atividades profissionais, científicas e técnicas",Mais de uma unidade local - não diversificada,2466,58424,0.65,3.78,51.06,20.47
+M,"Atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada,2364,226970,0.63,14.67,48.94,79.53
+M,"Atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada - espacial,1341,131121,0.36,8.48,27.76,45.94
+M,"Atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada - atividade,601,24799,0.16,1.6,12.44,8.69
+M,"Atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada - mista,422,71050,0.11,4.59,8.74,24.9
+69,"Atividades jurídicas, de contabilidade e de auditoria",Unidade local única,128585,521899,98.74,89.59,,
+69,"Atividades jurídicas, de contabilidade e de auditoria",Mais de uma unidade local,1639,60659,1.26,10.41,100,100
+69,"Atividades jurídicas, de contabilidade e de auditoria",Mais de uma unidade local - não diversificada,1126,21322,0.86,3.66,68.7,35.15
+69,"Atividades jurídicas, de contabilidade e de auditoria",Mais de uma unidade local - diversificada,513,39337,0.39,6.75,31.3,64.85
+69,"Atividades jurídicas, de contabilidade e de auditoria",Mais de uma unidade local - diversificada - espacial,407,31725,0.31,5.45,24.83,52.3
+69,"Atividades jurídicas, de contabilidade e de auditoria",Mais de uma unidade local - diversificada - atividade,78,880,0.06,0.15,4.76,1.45
+69,"Atividades jurídicas, de contabilidade e de auditoria",Mais de uma unidade local - diversificada - mista,28,6732,0.02,1.16,1.71,11.1
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,Unidade local única,55573,138004,98.84,78.92,,
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,Mais de uma unidade local,654,36853,1.16,21.08,100,100
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,Mais de uma unidade local - não diversificada,234,3670,0.42,2.1,35.78,9.96
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,Mais de uma unidade local - diversificada,420,33183,0.75,18.98,64.22,90.04
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,Mais de uma unidade local - diversificada - espacial,199,14605,0.35,8.35,30.43,39.63
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,Mais de uma unidade local - diversificada - atividade,103,4591,0.18,2.63,15.75,12.46
+70,Atividades de sedes de empresas e de consultoria em gestão empresarial,Mais de uma unidade local - diversificada - mista,118,13987,0.21,8,18.04,37.95
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,Unidade local única,83777,278239,98.82,73.83,,
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,Mais de uma unidade local,998,98618,1.18,26.17,100,100
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,Mais de uma unidade local - não diversificada,349,11014,0.41,2.92,34.97,11.17
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,Mais de uma unidade local - diversificada,649,87604,0.77,23.25,65.03,88.83
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,Mais de uma unidade local - diversificada - espacial,344,46148,0.41,12.25,34.47,46.79
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,Mais de uma unidade local - diversificada - atividade,162,7760,0.19,2.06,16.23,7.87
+71,Serviços de arquitetura e engenharia; testes e análises técnicas,Mais de uma unidade local - diversificada - mista,143,33696,0.17,8.94,14.33,34.17
+72,Pesquisa e desenvolvimento científico,Unidade local única,1771,8777,97.31,34.89,,
+72,Pesquisa e desenvolvimento científico,Mais de uma unidade local,49,16377,2.69,65.11,100,100
+72,Pesquisa e desenvolvimento científico,Mais de uma unidade local - não diversificada,20,3969,1.1,15.78,40.82,24.24
+72,Pesquisa e desenvolvimento científico,Mais de uma unidade local - diversificada,29,12408,1.59,49.33,59.18,75.76
+72,Pesquisa e desenvolvimento científico,Mais de uma unidade local - diversificada - espacial,17,11062,0.93,43.98,34.69,67.55
+72,Pesquisa e desenvolvimento científico,Mais de uma unidade local - diversificada - atividade,8,1134,0.44,4.51,16.33,6.92
+72,Pesquisa e desenvolvimento científico,Mais de uma unidade local - diversificada - mista,4,212,0.22,0.84,8.16,1.29
+73,Publicidade e pesquisa de mercado,Unidade local única,48270,152687,98.87,83.11,,
+73,Publicidade e pesquisa de mercado,Mais de uma unidade local,553,31035,1.13,16.89,100,100
+73,Publicidade e pesquisa de mercado,Mais de uma unidade local - não diversificada,231,8597,0.47,4.68,41.77,27.7
+73,Publicidade e pesquisa de mercado,Mais de uma unidade local - diversificada,322,22438,0.66,12.21,58.23,72.3
+73,Publicidade e pesquisa de mercado,Mais de uma unidade local - diversificada - espacial,212,20096,0.43,10.94,38.34,64.75
+73,Publicidade e pesquisa de mercado,Mais de uma unidade local - diversificada - atividade,73,1186,0.15,0.65,13.2,3.82
+73,Publicidade e pesquisa de mercado,Mais de uma unidade local - diversificada - mista,37,1156,0.08,0.63,6.69,3.72
+74,"Outras atividades profissionais, científicas e técnicas",Unidade local única,45382,132343,98.28,76.78,,
+74,"Outras atividades profissionais, científicas e técnicas",Mais de uma unidade local,793,40026,1.72,23.22,100,100
+74,"Outras atividades profissionais, científicas e técnicas",Mais de uma unidade local - não diversificada,401,8532,0.87,4.95,50.57,21.32
+74,"Outras atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada,392,31494,0.85,18.27,49.43,78.68
+74,"Outras atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada - espacial,156,7344,0.34,4.26,19.67,18.35
+74,"Outras atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada - atividade,144,8883,0.31,5.15,18.16,22.19
+74,"Outras atividades profissionais, científicas e técnicas",Mais de uma unidade local - diversificada - mista,92,15267,0.2,8.86,11.6,38.14
+75,Atividades veterinárias,Unidade local única,9408,29475,98.49,94.17,,
+75,Atividades veterinárias,Mais de uma unidade local,144,1826,1.51,5.83,100,100
+75,Atividades veterinárias,Mais de uma unidade local - não diversificada,105,1320,1.1,4.22,72.92,72.29
+75,Atividades veterinárias,Mais de uma unidade local - diversificada,39,506,0.41,1.62,27.08,27.71
+75,Atividades veterinárias,Mais de uma unidade local - diversificada - espacial,6,141,0.06,0.45,4.17,7.72
+75,Atividades veterinárias,Mais de uma unidade local - diversificada - atividade,33,365,0.35,1.17,22.92,19.99
+75,Atividades veterinárias,Mais de uma unidade local - diversificada - mista,,,,,,
+N,Atividades administrativas e serviços complementares,Unidade local única,312086,2803580,97.72,65.03,,
+N,Atividades administrativas e serviços complementares,Mais de uma unidade local,7271,1507395,2.28,34.97,100,100
+N,Atividades administrativas e serviços complementares,Mais de uma unidade local - não diversificada,3702,152834,1.16,3.55,50.91,10.14
+N,Atividades administrativas e serviços complementares,Mais de uma unidade local - diversificada,3569,1354561,1.12,31.42,49.09,89.86
+N,Atividades administrativas e serviços complementares,Mais de uma unidade local - diversificada - espacial,1602,749109,0.5,17.38,22.03,49.7
+N,Atividades administrativas e serviços complementares,Mais de uma unidade local - diversificada - atividade,1233,107388,0.39,2.49,16.96,7.12
+N,Atividades administrativas e serviços complementares,Mais de uma unidade local - diversificada - mista,734,498064,0.23,11.55,10.09,33.04
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,Unidade local única,43715,216820,96.54,72.29,,
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,Mais de uma unidade local,1567,83118,3.46,27.71,100,100
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,Mais de uma unidade local - não diversificada,622,10369,1.37,3.46,39.69,12.48
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,Mais de uma unidade local - diversificada,945,72749,2.09,24.25,60.31,87.52
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,Mais de uma unidade local - diversificada - espacial,429,24818,0.95,8.27,27.38,29.86
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,Mais de uma unidade local - diversificada - atividade,295,6834,0.65,2.28,18.83,8.22
+77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,Mais de uma unidade local - diversificada - mista,221,41097,0.49,13.7,14.1,49.44
+78,"Seleção, agenciamento e locação de mão-de-obra",Unidade local única,6177,431425,96.17,65.53,,
+78,"Seleção, agenciamento e locação de mão-de-obra",Mais de uma unidade local,246,226906,3.83,34.47,100,100
+78,"Seleção, agenciamento e locação de mão-de-obra",Mais de uma unidade local - não diversificada,88,30483,1.37,4.63,35.77,13.43
+78,"Seleção, agenciamento e locação de mão-de-obra",Mais de uma unidade local - diversificada,158,196423,2.46,29.84,64.23,86.57
+78,"Seleção, agenciamento e locação de mão-de-obra",Mais de uma unidade local - diversificada - espacial,73,112544,1.14,17.1,29.67,49.6
+78,"Seleção, agenciamento e locação de mão-de-obra",Mais de uma unidade local - diversificada - atividade,35,8226,0.54,1.25,14.23,3.63
+78,"Seleção, agenciamento e locação de mão-de-obra",Mais de uma unidade local - diversificada - mista,50,75653,0.78,11.49,20.33,33.34
+79,"Agências de viagens, operadores turísticos e serviços de reservas",Unidade local única,19007,74068,95.35,74.48,,
+79,"Agências de viagens, operadores turísticos e serviços de reservas",Mais de uma unidade local,927,25383,4.65,25.52,100,100
+79,"Agências de viagens, operadores turísticos e serviços de reservas",Mais de uma unidade local - não diversificada,625,8199,3.14,8.24,67.42,32.3
+79,"Agências de viagens, operadores turísticos e serviços de reservas",Mais de uma unidade local - diversificada,302,17184,1.51,17.28,32.58,67.7
+79,"Agências de viagens, operadores turísticos e serviços de reservas",Mais de uma unidade local - diversificada - espacial,199,14745,1,14.83,21.47,58.09
+79,"Agências de viagens, operadores turísticos e serviços de reservas",Mais de uma unidade local - diversificada - atividade,72,1352,0.36,1.36,7.77,5.33
+79,"Agências de viagens, operadores turísticos e serviços de reservas",Mais de uma unidade local - diversificada - mista,31,1087,0.16,1.09,3.34,4.28
+80,"Atividades de vigilância, segurança e investigação",Unidade local única,10714,311648,96.25,46.86,,
+80,"Atividades de vigilância, segurança e investigação",Mais de uma unidade local,418,353442,3.75,53.14,100,100
+80,"Atividades de vigilância, segurança e investigação",Mais de uma unidade local - não diversificada,72,12266,0.65,1.84,17.22,3.47
+80,"Atividades de vigilância, segurança e investigação",Mais de uma unidade local - diversificada,346,341176,3.11,51.3,82.78,96.53
+80,"Atividades de vigilância, segurança e investigação",Mais de uma unidade local - diversificada - espacial,256,308782,2.3,46.43,61.24,87.36
+80,"Atividades de vigilância, segurança e investigação",Mais de uma unidade local - diversificada - atividade,43,6418,0.39,0.96,10.29,1.82
+80,"Atividades de vigilância, segurança e investigação",Mais de uma unidade local - diversificada - mista,47,25976,0.42,3.91,11.24,7.35
+81,Serviços para edifícios e atividades paisagísticas,Unidade local única,30555,831216,98.69,73.11,,
+81,Serviços para edifícios e atividades paisagísticas,Mais de uma unidade local,407,305661,1.31,26.89,100,100
+81,Serviços para edifícios e atividades paisagísticas,Mais de uma unidade local - não diversificada,127,28192,0.41,2.48,31.2,9.22
+81,Serviços para edifícios e atividades paisagísticas,Mais de uma unidade local - diversificada,280,277469,0.9,24.41,68.8,90.78
+81,Serviços para edifícios e atividades paisagísticas,Mais de uma unidade local - diversificada - espacial,112,87281,0.36,7.68,27.52,28.55
+81,Serviços para edifícios e atividades paisagísticas,Mais de uma unidade local - diversificada - atividade,91,47284,0.29,4.16,22.36,15.47
+81,Serviços para edifícios e atividades paisagísticas,Mais de uma unidade local - diversificada - mista,77,142904,0.25,12.57,18.92,46.75
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",Unidade local única,201918,938403,98.2,64.66,,
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",Mais de uma unidade local,3706,512885,1.8,35.34,100,100
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",Mais de uma unidade local - não diversificada,2168,63325,1.05,4.36,58.5,12.35
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",Mais de uma unidade local - diversificada,1538,449560,0.75,30.98,41.5,87.65
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",Mais de uma unidade local - diversificada - espacial,533,200939,0.26,13.85,14.38,39.18
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",Mais de uma unidade local - diversificada - atividade,697,37274,0.34,2.57,18.81,7.27
+82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",Mais de uma unidade local - diversificada - mista,308,211347,0.15,14.56,8.31,41.21
+R,"Artes, cultura, esporte e recreação",Unidade local única,56095,206842,97.92,85.07,,
+R,"Artes, cultura, esporte e recreação",Mais de uma unidade local,1192,36306,2.08,14.93,100,100
+R,"Artes, cultura, esporte e recreação",Mais de uma unidade local - não diversificada,868,12385,1.52,5.09,72.82,34.11
+R,"Artes, cultura, esporte e recreação",Mais de uma unidade local - diversificada,324,23921,0.57,9.84,27.18,65.89
+R,"Artes, cultura, esporte e recreação",Mais de uma unidade local - diversificada - espacial,87,6911,0.15,2.84,7.3,19.04
+R,"Artes, cultura, esporte e recreação",Mais de uma unidade local - diversificada - atividade,199,3728,0.35,1.53,16.69,10.27
+R,"Artes, cultura, esporte e recreação",Mais de uma unidade local - diversificada - mista,38,13282,0.07,5.46,3.19,36.58
+90,"Atividades artísticas, criativas e de espetáculos",Unidade local única,14372,32505,99.33,96.65,,
+90,"Atividades artísticas, criativas e de espetáculos",Mais de uma unidade local,97,1127,0.67,3.35,100,100
+90,"Atividades artísticas, criativas e de espetáculos",Mais de uma unidade local - não diversificada,47,299,0.32,0.89,48.45,26.53
+90,"Atividades artísticas, criativas e de espetáculos",Mais de uma unidade local - diversificada,50,828,0.35,2.46,51.55,73.47
+90,"Atividades artísticas, criativas e de espetáculos",Mais de uma unidade local - diversificada - espacial,22,614,0.15,1.83,22.68,54.48
+90,"Atividades artísticas, criativas e de espetáculos",Mais de uma unidade local - diversificada - atividade,21,151,0.15,0.45,21.65,13.4
+90,"Atividades artísticas, criativas e de espetáculos",Mais de uma unidade local - diversificada - mista,7,63,0.05,0.19,7.22,5.59
+91,Atividades ligadas ao patrimônio cultural e ambiental,Unidade local única,349,1454,97.49,53.65,,
+91,Atividades ligadas ao patrimônio cultural e ambiental,Mais de uma unidade local,9,1256,2.51,46.35,100,100
+91,Atividades ligadas ao patrimônio cultural e ambiental,Mais de uma unidade local - não diversificada,1,,,,,
+91,Atividades ligadas ao patrimônio cultural e ambiental,Mais de uma unidade local - diversificada,8,,,,,
+91,Atividades ligadas ao patrimônio cultural e ambiental,Mais de uma unidade local - diversificada - espacial,1,,,,,
+91,Atividades ligadas ao patrimônio cultural e ambiental,Mais de uma unidade local - diversificada - atividade,3,316,0.84,11.66,33.33,25.16
+91,Atividades ligadas ao patrimônio cultural e ambiental,Mais de uma unidade local - diversificada - mista,4,564,1.12,20.81,44.44,44.9
+92,Atividades de exploração de jogos de azar e apostas,Unidade local única,53,90,98.15,96.77,,
+92,Atividades de exploração de jogos de azar e apostas,Mais de uma unidade local,1,,,,,
+92,Atividades de exploração de jogos de azar e apostas,Mais de uma unidade local - não diversificada,1,,,,,
+92,Atividades de exploração de jogos de azar e apostas,Mais de uma unidade local - diversificada,,,,,,
+92,Atividades de exploração de jogos de azar e apostas,Mais de uma unidade local - diversificada - espacial,,,,,,
+92,Atividades de exploração de jogos de azar e apostas,Mais de uma unidade local - diversificada - atividade,,,,,,
+92,Atividades de exploração de jogos de azar e apostas,Mais de uma unidade local - diversificada - mista,,,,,,
+93,Atividades esportivas e de recreação e lazer,Unidade local única,41321,172793,97.44,83.59,,
+93,Atividades esportivas e de recreação e lazer,Mais de uma unidade local,1085,33920,2.56,16.41,100,100
+93,Atividades esportivas e de recreação e lazer,Mais de uma unidade local - não diversificada,819,12050,1.93,5.83,75.48,35.52
+93,Atividades esportivas e de recreação e lazer,Mais de uma unidade local - diversificada,266,21870,0.63,10.58,24.52,64.48
+93,Atividades esportivas e de recreação e lazer,Mais de uma unidade local - diversificada - espacial,64,5954,0.15,2.88,5.9,17.55
+93,Atividades esportivas e de recreação e lazer,Mais de uma unidade local - diversificada - atividade,175,3261,0.41,1.58,16.13,9.61
+93,Atividades esportivas e de recreação e lazer,Mais de uma unidade local - diversificada - mista,27,12655,0.06,6.12,2.49,37.31
+S,Outras atividades de serviços,Unidade local única,89907,349333,96.55,81.59,,
+S,Outras atividades de serviços,Mais de uma unidade local,3211,78811,3.45,18.41,100,100
+S,Outras atividades de serviços,Mais de uma unidade local - não diversificada,2424,35334,2.6,8.25,75.49,44.83
+S,Outras atividades de serviços,Mais de uma unidade local - diversificada,787,43477,0.85,10.15,24.51,55.17
+S,Outras atividades de serviços,Mais de uma unidade local - diversificada - espacial,182,12548,0.2,2.93,5.67,15.92
+S,Outras atividades de serviços,Mais de uma unidade local - diversificada - atividade,495,11482,0.53,2.68,15.42,14.57
+S,Outras atividades de serviços,Mais de uma unidade local - diversificada - mista,110,19447,0.12,4.54,3.43,24.68
+94,Atividades de organizações associativas,Unidade local única,887,3879,97.79,86.16,,
+94,Atividades de organizações associativas,Mais de uma unidade local,20,623,2.21,13.84,100,100
+94,Atividades de organizações associativas,Mais de uma unidade local - não diversificada,12,136,1.32,3.02,60,21.83
+94,Atividades de organizações associativas,Mais de uma unidade local - diversificada,8,487,0.88,10.82,40,78.17
+94,Atividades de organizações associativas,Mais de uma unidade local - diversificada - espacial,1,,,,,
+94,Atividades de organizações associativas,Mais de uma unidade local - diversificada - atividade,5,226,0.55,5.02,25,36.28
+94,Atividades de organizações associativas,Mais de uma unidade local - diversificada - mista,2,,,,,
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,Unidade local única,36795,130238,98.19,84.67,,
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,Mais de uma unidade local,678,23587,1.81,15.33,100,100
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,Mais de uma unidade local - não diversificada,340,3492,0.91,2.27,50.15,14.8
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,Mais de uma unidade local - diversificada,338,20095,0.9,13.06,49.85,85.2
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,Mais de uma unidade local - diversificada - espacial,68,2005,0.18,1.3,10.03,8.5
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,Mais de uma unidade local - diversificada - atividade,195,3865,0.52,2.51,28.76,16.39
+95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,Mais de uma unidade local - diversificada - mista,75,14225,0.2,9.25,11.06,60.31
+96,Outras atividades de serviços pessoais,Unidade local única,52225,215216,95.41,79.76,,
+96,Outras atividades de serviços pessoais,Mais de uma unidade local,2513,54601,4.59,20.24,100,100
+96,Outras atividades de serviços pessoais,Mais de uma unidade local - não diversificada,2072,31706,3.79,11.75,82.45,58.07
+96,Outras atividades de serviços pessoais,Mais de uma unidade local - diversificada,441,22895,0.81,8.49,17.55,41.93
+96,Outras atividades de serviços pessoais,Mais de uma unidade local - diversificada - espacial,113,10515,0.21,3.9,4.5,19.26
+96,Outras atividades de serviços pessoais,Mais de uma unidade local - diversificada - atividade,295,7391,0.54,2.74,11.74,13.54
+96,Outras atividades de serviços pessoais,Mais de uma unidade local - diversificada - mista,33,4989,0.06,1.85,1.31,9.14

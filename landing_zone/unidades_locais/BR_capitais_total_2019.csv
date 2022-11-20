@@ -1,0 +1,541 @@
+mun_capital,atividades,unidades_locais,pessoal_ocp_total,pessoal_ocp_assal,pessoal_assal_medio,salarios_outras_rem,salario_medio_mensal_min,salario_medio_mensal
+Porto Velho - RO,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",42,188,141,150.08,2406.713,1.236026,1233.55389945875
+Porto Velho - RO,B Indústrias extrativas,35,233,182,205.46,6284.317,2.357528,2352.81319964957
+Porto Velho - RO,C Indústrias de transformação,502,5936,5344,4943.12,109823.066,1.712452,1709.02752792693
+Porto Velho - RO,D Eletricidade e gás,29,2144,2126,2178.15,195938.625,6.933594,6919.72633798266
+Porto Velho - RO,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",34,1141,1114,1104.09,65225.778,4.553453,4544.34651021342
+Porto Velho - RO,F Construção,485,4406,3802,3980.71,85137.776,1.648496,1645.19889474684
+Porto Velho - RO,G Comércio; reparação de veículos automotores e motocicletas,4643,31230,26299,26853.49,599649.181,1.721165,1717.72309956445
+Porto Velho - RO,"H Transporte, armazenagem e correio",384,5424,5119,5324.19,164195.283,2.377022,2372.26815433247
+Porto Velho - RO,I Alojamento e alimentação,659,4608,3900,3937.83,69942.884,1.369029,1366.2910400281
+Porto Velho - RO,J Informação e comunicação,171,1422,1271,1351.98,42430.964,2.419016,2414.17795210899
+Porto Velho - RO,"K Atividades financeiras, de seguros e serviços relacionados",276,2255,1973,1948.83,119976.029,4.745114,4735.62358322291
+Porto Velho - RO,L Atividades imobiliárias,109,316,179,184.99,4072.729,1.696928,1693.5339540183
+Porto Velho - RO,"M Atividades profissionais, científicas e técnicas",753,4180,3215,3252.42,149916.192,3.552778,3545.67207471076
+Porto Velho - RO,N Atividades administrativas e serviços complementares,834,11693,10772,11356.77,256924.04,1.743717,1740.22963327669
+Porto Velho - RO,"O Administração pública, defesa e seguridade social",51,72948,72948,73445.13,4277174.372,4.488695,4479.71721516143
+Porto Velho - RO,P Educação,331,8278,7941,8142.79,480832.502,4.551418,4542.31480100328
+Porto Velho - RO,Q Saúde humana e serviços sociais,629,5890,4888,4880.65,120463.17,1.902404,1898.59909895356
+Porto Velho - RO,"R Artes, cultura, esporte e recreação",114,539,421,405.48,7419.214,1.41031,1407.48931940113
+Porto Velho - RO,S Outras atividades de serviços,693,2752,2310,2305.15,59007.292,1.973025,1969.07900203391
+Porto Velho - RO,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Rio Branco - AC,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",45,288,221,241.03,4466.079,1.428175,1425.31858466389
+Rio Branco - AC,B Indústrias extrativas,12,,,,,,
+Rio Branco - AC,C Indústrias de transformação,327,3601,3269,3314.1,62638.962,1.456817,1453.90353106656
+Rio Branco - AC,D Eletricidade e gás,6,464,463,520.04,27114.799,4.018794,4010.7564211037
+Rio Branco - AC,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",18,1067,1050,1145.76,44109.706,2.967335,2961.40056180379
+Rio Branco - AC,F Construção,276,3267,2829,3078.69,67769.217,1.696651,1693.25807155241
+Rio Branco - AC,G Comércio; reparação de veículos automotores e motocicletas,2603,20119,17558,18225.29,367646.099,1.554825,1551.71572873991
+Rio Branco - AC,"H Transporte, armazenagem e correio",168,2504,2353,2332.24,67070.218,2.216576,2212.14263474665
+Rio Branco - AC,I Alojamento e alimentação,425,2919,2484,2567.98,40139.517,1.204777,1202.36729018378
+Rio Branco - AC,J Informação e comunicação,114,836,761,824.98,26229.787,2.450628,2445.72707590114
+Rio Branco - AC,"K Atividades financeiras, de seguros e serviços relacionados",107,1109,1013,1006.44,68815.47,5.270166,5259.62570278178
+Rio Branco - AC,L Atividades imobiliárias,74,273,183,166.86,2976.574,1.374962,1372.21161913719
+Rio Branco - AC,"M Atividades profissionais, científicas e técnicas",353,2424,1960,1820.72,83971.146,3.554782,3547.67285638479
+Rio Branco - AC,N Atividades administrativas e serviços complementares,364,11059,10731,11281.16,183258.332,1.252092,1249.58734467296
+Rio Branco - AC,"O Administração pública, defesa e seguridade social",72,21932,21930,21281.93,1548563.863,5.608468,5597.25067951291
+Rio Branco - AC,P Educação,260,21471,21342,20255.52,974950.801,3.709927,3702.50753678693
+Rio Branco - AC,Q Saúde humana e serviços sociais,349,9997,9522,9443.13,516785.562,4.218135,4209.69906571884
+Rio Branco - AC,"R Artes, cultura, esporte e recreação",74,478,412,436.21,8210.312,1.450742,1447.84040150034
+Rio Branco - AC,S Outras atividades de serviços,433,1525,1308,1316.83,30954.85,1.811862,1808.23819907832
+Rio Branco - AC,U Organismos internacionais e outras instituições extraterritoriais,1,,,,,,
+Manaus - AM,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",52,,,,,,
+Manaus - AM,B Indústrias extrativas,29,581,557,675.15,119067.241,13.593088,13565.9017084523
+Manaus - AM,C Indústrias de transformação,1731,89213,87296,88443.83,3508092.084,3.05724,3051.12563794184
+Manaus - AM,D Eletricidade e gás,52,2015,2000,2157.66,258479.125,9.233547,9215.08004754438
+Manaus - AM,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",90,3542,3456,3516.25,100951.924,2.212896,2208.46999371052
+Manaus - AM,F Construção,1462,20310,18404,18390.97,471539.81,1.976241,1972.28819779071
+Manaus - AM,G Comércio; reparação de veículos automotores e motocicletas,11154,96065,84453,87323.18,1816465.153,1.603333,1600.12597677166
+Manaus - AM,"H Transporte, armazenagem e correio",1413,32127,30708,31896.18,926712.94,2.239405,2234.92627547345
+Manaus - AM,I Alojamento e alimentação,1601,18425,16680,17854.78,308848.888,1.333269,1330.60204433943
+Manaus - AM,J Informação e comunicação,703,6156,5373,5658.58,236171.766,3.216967,3210.53319438391
+Manaus - AM,"K Atividades financeiras, de seguros e serviços relacionados",602,5263,4672,4681.54,322125.239,5.303494,5292.88749822954
+Manaus - AM,L Atividades imobiliárias,352,1248,622,682.63,16287.187,1.839022,1835.34350740744
+Manaus - AM,"M Atividades profissionais, científicas e técnicas",2148,12730,9921,10234.4,417664.407,3.145511,3139.21981822992
+Manaus - AM,N Atividades administrativas e serviços complementares,2441,54596,51769,51589.81,1040650.019,1.554773,1551.66304085125
+Manaus - AM,"O Administração pública, defesa e seguridade social",138,51042,51042,51042.97,4962070.574,7.492955,7477.96878711287
+Manaus - AM,P Educação,1317,67306,66295,67138.53,3326078.275,3.818447,3810.80990304673
+Manaus - AM,Q Saúde humana e serviços sociais,1846,47277,44465,44758.07,1837659.253,3.164607,3158.27746989365
+Manaus - AM,"R Artes, cultura, esporte e recreação",286,2091,1761,1754.84,51892.472,2.279255,2274.69661928416
+Manaus - AM,S Outras atividades de serviços,1360,8109,7101,6814.05,187892.012,2.125343,2121.0926970462
+Manaus - AM,U Organismos internacionais e outras instituições extraterritoriais,4,,,,,,
+Boa Vista - RR,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",45,387,281,191.58,4368.488,1.757548,1754.03245882419
+Boa Vista - RR,B Indústrias extrativas,8,,,,,,
+Boa Vista - RR,C Indústrias de transformação,278,2392,2080,1921.55,34186.896,1.371305,1368.56247860801
+Boa Vista - RR,D Eletricidade e gás,12,946,944,1079.52,86450.275,6.17251,6160.16484534437
+Boa Vista - RR,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",14,,,,,,
+Boa Vista - RR,F Construção,296,3404,3013,3288.61,64675.795,1.515847,1512.81579568455
+Boa Vista - RR,G Comércio; reparação de veículos automotores e motocicletas,2699,20688,17915,17654.87,342073.499,1.493417,1490.4298970722
+Boa Vista - RR,"H Transporte, armazenagem e correio",175,1628,1461,1490.99,35494.735,1.834912,1831.24248369823
+Boa Vista - RR,I Alojamento e alimentação,478,3466,2976,2866.93,49542.458,1.331946,1329.28195236448
+Boa Vista - RR,J Informação e comunicação,120,931,835,848.07,24421.43,2.219553,2215.1137741714
+Boa Vista - RR,"K Atividades financeiras, de seguros e serviços relacionados",79,771,721,715.2,57722.68,6.220784,6208.34193770435
+Boa Vista - RR,L Atividades imobiliárias,81,246,125,115.79,2841.093,1.891213,1887.43082636338
+Boa Vista - RR,"M Atividades profissionais, científicas e técnicas",367,1467,1023,997.57,53281.857,4.116822,4108.58825407278
+Boa Vista - RR,N Atividades administrativas e serviços complementares,311,6539,6205,6199.31,110717.972,1.376578,1373.82500260885
+Boa Vista - RR,"O Administração pública, defesa e seguridade social",46,41903,41902,39657.6,2607978.021,5.068782,5058.64434365864
+Boa Vista - RR,P Educação,245,5011,4841,5011.94,318287.821,4.89486,4885.07016014987
+Boa Vista - RR,Q Saúde humana e serviços sociais,311,3134,2654,2574.48,66700.14,1.996932,1992.93837978932
+Boa Vista - RR,"R Artes, cultura, esporte e recreação",82,429,350,351.37,7487.424,1.642456,1639.17150669577
+Boa Vista - RR,S Outras atividades de serviços,350,1494,1230,1273.89,29678.499,1.79571,1792.11820607624
+Boa Vista - RR,U Organismos internacionais e outras instituições extraterritoriais,2,,,,,,
+Belém - PA,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",80,887,768,872.93,21797.018,1.924615,1920.76534465271
+Belém - PA,B Indústrias extrativas,13,67,58,59.98,8666.693,11.137124,11114.8498217354
+Belém - PA,C Indústrias de transformação,855,10826,9785,10141.85,281053.98,2.135987,2131.71531062646
+Belém - PA,D Eletricidade e gás,23,1307,1296,1362.74,60852.801,3.441864,3434.98003456836
+Belém - PA,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",30,3127,3082,2983.74,139103.62,3.593383,3586.19667314795
+Belém - PA,F Construção,1055,21093,19543,21044.85,476338.036,1.744599,1741.10945835277
+Belém - PA,G Comércio; reparação de veículos automotores e motocicletas,7977,72672,63751,65345.7,1353623.639,1.59664,1593.44678085463
+Belém - PA,"H Transporte, armazenagem e correio",642,15503,14610,15580.43,473908.507,2.344451,2339.76215922549
+Belém - PA,I Alojamento e alimentação,1217,13295,11906,11848.79,217527.999,1.415035,1412.20521251537
+Belém - PA,J Informação e comunicação,485,7520,6970,7432.95,294111.667,3.049841,3043.74096215034
+Belém - PA,"K Atividades financeiras, de seguros e serviços relacionados",568,10750,10152,10210.99,677252.951,5.112216,5101.99117285923
+Belém - PA,L Atividades imobiliárias,273,1979,1549,1562.69,45826.345,2.260313,2255.79191108823
+Belém - PA,"M Atividades profissionais, científicas e técnicas",1651,8804,6450,6986.91,339643.188,3.746829,3739.33528225254
+Belém - PA,N Atividades administrativas e serviços complementares,2163,53400,51231,49761.4,1088597.765,1.686168,1682.79609527434
+Belém - PA,"O Administração pública, defesa e seguridade social",145,82976,82973,82890.86,6952815.644,6.465173,6452.24301708759
+Belém - PA,P Educação,785,74324,73307,73130.77,4480753.319,4.722555,4713.10957386021
+Belém - PA,Q Saúde humana e serviços sociais,1721,40408,37415,37046.62,1671217.595,3.477047,3470.09253787214
+Belém - PA,"R Artes, cultura, esporte e recreação",292,3906,3569,3702.56,106543.509,2.217946,2213.51025735209
+Belém - PA,S Outras atividades de serviços,1408,9781,8579,8642.04,217195.16,1.937135,1933.26112815955
+Belém - PA,U Organismos internacionais e outras instituições extraterritoriais,3,16,14,14.52,888.674,4.717392,4707.95719432083
+Macapá - AP,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",20,247,225,181.75,3486.16,1.478424,1475.46714633372
+Macapá - AP,B Indústrias extrativas,13,,,,,,
+Macapá - AP,C Indústrias de transformação,259,1544,1270,1334.39,21602.429,1.247803,1245.30707491236
+Macapá - AP,D Eletricidade e gás,12,676,672,669.59,57729.429,6.645297,6632.00661254246
+Macapá - AP,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",17,889,870,645.92,28172.456,3.361802,3355.07802823879
+Macapá - AP,F Construção,302,4298,3898,3863.68,75819.4,1.512535,1509.50946725959
+Macapá - AP,G Comércio; reparação de veículos automotores e motocicletas,2841,23330,20471,20461.39,408918.253,1.540379,1537.2978194917
+Macapá - AP,"H Transporte, armazenagem e correio",160,2434,2286,2385.07,57896.23,1.871006,1867.26433766982
+Macapá - AP,I Alojamento e alimentação,364,2743,2361,2415.24,39490.616,1.260259,1257.73823400892
+Macapá - AP,J Informação e comunicação,112,1220,1109,1227.57,34086.904,2.140264,2135.98372268917
+Macapá - AP,"K Atividades financeiras, de seguros e serviços relacionados",112,1111,1022,1015.84,60369.876,4.580586,4571.42523958952
+Macapá - AP,L Atividades imobiliárias,70,,,,,,
+Macapá - AP,"M Atividades profissionais, científicas e técnicas",308,1275,939,966.97,52170.675,4.158527,4150.21029210197
+Macapá - AP,N Atividades administrativas e serviços complementares,359,9001,8606,8392.66,164776.505,1.513289,1510.26203482934
+Macapá - AP,"O Administração pública, defesa e seguridade social",35,49249,49249,48851.71,4104491.228,6.475983,6463.03055638254
+Macapá - AP,P Educação,361,5740,5362,5606.03,234352.908,3.222115,3215.67076330857
+Macapá - AP,Q Saúde humana e serviços sociais,407,7478,6866,6680.23,187985.213,2.168994,2164.65615704849
+Macapá - AP,"R Artes, cultura, esporte e recreação",73,347,280,280.25,4254.983,1.170249,1167.90859809236
+Macapá - AP,S Outras atividades de serviços,376,1701,1448,1367.64,28847.487,1.625782,1622.53038923873
+Macapá - AP,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Palmas - TO,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",47,,,,,,
+Palmas - TO,B Indústrias extrativas,15,,,,,,
+Palmas - TO,C Indústrias de transformação,368,2340,1880,1954.67,41739.494,1.645886,1642.59455953808
+Palmas - TO,D Eletricidade e gás,17,671,664,670.06,28701.188,3.301507,3294.90447468539
+Palmas - TO,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",27,1452,1419,1745.51,63291.258,2.794779,2789.18958223803
+Palmas - TO,F Construção,666,4619,3575,4140.81,102914.476,1.915655,1911.8235692645
+Palmas - TO,G Comércio; reparação de veículos automotores e motocicletas,3434,21061,17172,17711.1,411762.848,1.791958,1788.37368829543
+Palmas - TO,"H Transporte, armazenagem e correio",253,2636,2368,2622.84,82246.63,2.416976,2412.14250436696
+Palmas - TO,I Alojamento e alimentação,551,4376,3724,3528.62,52755.968,1.152372,1150.06755746308
+Palmas - TO,J Informação e comunicação,225,1383,1144,1135.78,38444.893,2.608979,2603.76081770982
+Palmas - TO,"K Atividades financeiras, de seguros e serviços relacionados",277,1687,1439,1391.17,100362.158,5.560526,5549.4051769374
+Palmas - TO,L Atividades imobiliárias,349,985,433,445.93,10580.175,1.828741,1825.08379204049
+Palmas - TO,"M Atividades profissionais, científicas e técnicas",906,2824,1654,1644.46,64035.192,3.001384,2995.38085450543
+Palmas - TO,N Atividades administrativas e serviços complementares,835,10296,9544,9982.09,186763.273,1.442102,1439.21820133706
+Palmas - TO,"O Administração pública, defesa e seguridade social",64,35727,35727,35401.62,3037576.421,6.613482,6600.25514912334
+Palmas - TO,P Educação,386,21337,21001,24591.26,1293468.604,4.054163,4046.054774057
+Palmas - TO,Q Saúde humana e serviços sociais,614,17112,16213,15903.47,950386.296,4.606111,4596.89854816881
+Palmas - TO,"R Artes, cultura, esporte e recreação",118,412,269,277.6,5483.446,1.52251,1519.4651961871
+Palmas - TO,S Outras atividades de serviços,622,2248,1899,1938.56,48731.787,1.937578,1933.70285160119
+Palmas - TO,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+São Luís - MA,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",34,144,92,87.15,1608.752,1.422813,1419.96734189505
+São Luís - MA,B Indústrias extrativas,31,572,539,520.39,47030.815,6.965939,6952.00714848479
+São Luís - MA,C Indústrias de transformação,895,11736,10693,10721.45,322877.876,2.321191,2316.54857246993
+São Luís - MA,D Eletricidade e gás,9,1270,1264,1259.88,78863.288,4.824717,4815.06712482996
+São Luís - MA,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",74,4110,4032,4075.64,228827.571,4.327516,4318.86055837951
+São Luís - MA,F Construção,1283,24687,22799,22143.05,496180.906,1.727145,1723.69036785809
+São Luís - MA,G Comércio; reparação de veículos automotores e motocicletas,9334,64900,54902,56907.42,1186879.423,1.607547,1604.33239029016
+São Luís - MA,"H Transporte, armazenagem e correio",726,20797,20036,20477.53,739685.129,2.784168,2778.59957118476
+São Luís - MA,I Alojamento e alimentação,1328,12369,10733,10966.06,188317.917,1.323632,1320.98434764944
+São Luís - MA,J Informação e comunicação,469,5345,4826,4849.88,127246.847,2.022284,2018.23942035679
+São Luís - MA,"K Atividades financeiras, de seguros e serviços relacionados",441,4556,4091,4086.38,289526.856,5.461051,5450.12862616414
+São Luís - MA,L Atividades imobiliárias,455,2391,1695,1854.32,32102.626,1.334388,1331.71878059384
+São Luís - MA,"M Atividades profissionais, científicas e técnicas",1543,7251,5178,5099.05,145364.917,2.197336,2192.94117380839
+São Luís - MA,N Atividades administrativas e serviços complementares,1750,37424,35394,36891.74,677532.831,1.415557,1412.72572334412
+São Luís - MA,"O Administração pública, defesa e seguridade social",91,65080,65079,64973.06,5011458.165,5.945069,5933.17879630537
+São Luís - MA,P Educação,841,52712,51761,51114.52,2768346.379,4.174479,4166.12973107325
+São Luís - MA,Q Saúde humana e serviços sociais,1857,47901,44727,44376.57,1344833.03,2.335827,2331.15571156997
+São Luís - MA,"R Artes, cultura, esporte e recreação",279,1395,1075,1049.1,18614.708,1.36762,1364.8847730289
+São Luís - MA,S Outras atividades de serviços,1184,6840,5837,5860.63,149585.813,1.967307,1963.37270907735
+São Luís - MA,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Teresina - PI,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",55,371,313,349.22,6667.229,1.471541,1468.59793033265
+Teresina - PI,B Indústrias extrativas,34,196,157,156.56,2477.315,1.219626,1217.18633308439
+Teresina - PI,C Indústrias de transformação,1434,16867,15059,15623.76,299535.82,1.47771,1474.75491962734
+Teresina - PI,D Eletricidade e gás,14,1334,1312,1828.68,129419.039,5.454897,5443.98729810994
+Teresina - PI,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",54,1833,1763,1780.8,118449.133,5.126758,5116.50481201189
+Teresina - PI,F Construção,1113,17226,15200,15640.05,308702.925,1.521349,1518.30581399381
+Teresina - PI,G Comércio; reparação de veículos automotores e motocicletas,8642,61890,51905,52548.95,1040472.193,1.526134,1523.08128970154
+Teresina - PI,"H Transporte, armazenagem e correio",546,8941,8351,8860.59,218983.959,1.904916,1901.10589961582
+Teresina - PI,I Alojamento e alimentação,1389,11916,10173,10232.46,154360.474,1.162739,1160.41329410373
+Teresina - PI,J Informação e comunicação,445,3595,3046,3035.97,92680.595,2.352976,2348.26975841709
+Teresina - PI,"K Atividades financeiras, de seguros e serviços relacionados",327,3904,3577,3622.61,242545.507,5.160571,5150.24987296664
+Teresina - PI,L Atividades imobiliárias,292,1517,1031,1194.34,18423.048,1.188939,1186.56122918226
+Teresina - PI,"M Atividades profissionais, científicas e técnicas",1244,6520,4568,4486.46,179109.461,3.077094,3070.94030619995
+Teresina - PI,N Atividades administrativas e serviços complementares,1488,38556,36701,38207.7,643775.305,1.298702,1296.10464141239
+Teresina - PI,"O Administração pública, defesa e seguridade social",102,39030,39030,38454.2,3113665.549,6.241002,6228.51949952051
+Teresina - PI,P Educação,695,44930,43997,43574.5,1942894.737,3.436711,3429.83720542272
+Teresina - PI,Q Saúde humana e serviços sociais,1991,36497,32669,32655.7,1293598.852,3.053281,3047.17412274121
+Teresina - PI,"R Artes, cultura, esporte e recreação",284,1417,1037,1040.89,18745.81,1.388115,1385.33887789813
+Teresina - PI,S Outras atividades de serviços,1157,7381,6184,6282.53,117740.661,1.444502,1441.61252283346
+Teresina - PI,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Fortaleza - CE,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",131,2056,1841,1872.52,49075.558,2.020063,2016.02275173399
+Fortaleza - CE,B Indústrias extrativas,30,,,,,,
+Fortaleza - CE,C Indústrias de transformação,5153,66138,59648,61587.31,1251073.46,1.565733,1562.60145150032
+Fortaleza - CE,D Eletricidade e gás,81,1139,1049,1083.5,123471.036,8.783392,8765.82556529765
+Fortaleza - CE,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",186,4805,4703,4595.61,214945.256,3.605046,3597.83586108013
+Fortaleza - CE,F Construção,3862,47343,40657,43893.74,1071952.418,1.882344,1878.57945820275
+Fortaleza - CE,G Comércio; reparação de veículos automotores e motocicletas,21926,159204,134559,141232.74,2777138.91,1.515613,1512.58178521496
+Fortaleza - CE,"H Transporte, armazenagem e correio",1978,32379,30234,32773.58,964435.272,2.268168,2263.63212732282
+Fortaleza - CE,I Alojamento e alimentação,4041,39416,34491,35278.14,568337.713,1.241729,1239.24576566068
+Fortaleza - CE,J Informação e comunicação,1759,19430,17075,16724.53,659283.317,3.038395,3032.31847517941
+Fortaleza - CE,"K Atividades financeiras, de seguros e serviços relacionados",2189,20992,17943,18132.47,1599234.796,6.798003,6784.40726667515
+Fortaleza - CE,L Atividades imobiliárias,1847,7213,3970,4004.39,86106.104,1.657386,1654.07127216342
+Fortaleza - CE,"M Atividades profissionais, científicas e técnicas",4716,21970,14799,14559.17,486704.02,2.576644,2571.49073533936
+Fortaleza - CE,N Atividades administrativas e serviços complementares,7817,151115,142007,136606.21,2794766.605,1.576889,1573.73553177752
+Fortaleza - CE,"O Administração pública, defesa e seguridade social",135,67026,67023,66269.69,6721381.878,7.817533,7801.89820158762
+Fortaleza - CE,P Educação,2680,102255,99319,99607.34,4797571.782,3.712413,3704.98783755062
+Fortaleza - CE,Q Saúde humana e serviços sociais,3848,76636,68872,68271.59,2618573.88,2.956316,2950.40382097443
+Fortaleza - CE,"R Artes, cultura, esporte e recreação",920,6476,5256,4905.47,144376.597,2.268518,2263.98124479878
+Fortaleza - CE,S Outras atividades de serviços,3587,23323,19950,21152.76,542648.495,1.977323,1973.36857805208
+Fortaleza - CE,U Organismos internacionais e outras instituições extraterritoriais,1,,,,,,
+Natal - RN,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",75,588,466,497.54,10165.925,1.574871,1571.72133048444
+Natal - RN,B Indústrias extrativas,22,745,716,807.91,206234.621,19.675451,19636.1000796928
+Natal - RN,C Indústrias de transformação,1075,17684,16370,17094.11,335126.74,1.511084,1508.0621336823
+Natal - RN,D Eletricidade e gás,31,1000,928,918.65,78725.447,6.605279,6592.06837792915
+Natal - RN,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",48,2999,2935,2921.05,171952.612,4.537283,4528.2086920799
+Natal - RN,F Construção,2058,16730,13286,12957.15,314114.375,1.868549,1864.81164691072
+Natal - RN,G Comércio; reparação de veículos automotores e motocicletas,8452,57188,47624,50405.18,973263.533,1.488269,1485.2922976445
+Natal - RN,"H Transporte, armazenagem e correio",477,6423,5827,6398.01,208970.362,2.517479,2512.44421793171
+Natal - RN,I Alojamento e alimentação,1649,16861,14729,14940.83,270943.317,1.397751,1394.95554232159
+Natal - RN,J Informação e comunicação,655,4689,3809,3935.35,142134.119,2.78382,2778.25193927624
+Natal - RN,"K Atividades financeiras, de seguros e serviços relacionados",654,5042,4222,4324.15,299307.327,5.335102,5324.43151566471
+Natal - RN,L Atividades imobiliárias,819,2634,1202,1318.42,31273.798,1.828323,1824.66647140575
+Natal - RN,"M Atividades profissionais, científicas e técnicas",2091,9209,6085,5953.46,167740.524,2.171674,2167.33080104162
+Natal - RN,N Atividades administrativas e serviços complementares,2714,49342,46198,46880.45,813541.703,1.337563,1334.887591736
+Natal - RN,"O Administração pública, defesa e seguridade social",77,77866,77862,77807.04,5434786.013,5.383809,5373.04159801557
+Natal - RN,P Educação,1038,22569,21523,22155.28,1402264.229,4.878415,4868.65790700213
+Natal - RN,Q Saúde humana e serviços sociais,1839,21875,18249,17997.21,565606.68,2.422342,2417.49727618037
+Natal - RN,"R Artes, cultura, esporte e recreação",363,2012,1552,1542.02,36397.961,1.819337,1815.69833974018
+Natal - RN,S Outras atividades de serviços,1346,6921,5615,5663.7,127854.318,1.739968,1736.4880799586
+Natal - RN,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+João Pessoa - PB,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",19,201,174,152.78,3278.419,1.653956,1650.64849406386
+João Pessoa - PB,B Indústrias extrativas,8,30,24,22.36,333.807,1.150667,1148.36590064676
+João Pessoa - PB,C Indústrias de transformação,800,12468,11403,11991.77,260093.24,1.671752,1668.40860921218
+João Pessoa - PB,D Eletricidade e gás,16,2316,2311,2310.27,88786.045,2.962157,2956.23272138355
+João Pessoa - PB,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",38,2351,2308,2332.83,133738.702,4.418757,4409.91948043298
+João Pessoa - PB,F Construção,2526,17405,13064,14026.78,272252.609,1.49603,1493.0374886193
+João Pessoa - PB,G Comércio; reparação de veículos automotores e motocicletas,6605,46144,38658,39371.06,779214.364,1.525478,1522.42704315145
+João Pessoa - PB,"H Transporte, armazenagem e correio",337,6059,5759,6378.25,170092.083,2.055458,2051.34737343556
+João Pessoa - PB,I Alojamento e alimentação,1383,13073,11440,11428.53,184034.155,1.241178,1238.69591815732
+João Pessoa - PB,J Informação e comunicação,582,5677,4972,4702.19,190447.612,3.121774,3115.53048849415
+João Pessoa - PB,"K Atividades financeiras, de seguros e serviços relacionados",625,5092,4370,4405,303471.311,5.310041,5299.42043132804
+João Pessoa - PB,L Atividades imobiliárias,451,1666,953,920.59,21729.605,1.819331,1815.69219405281
+João Pessoa - PB,"M Atividades profissionais, científicas e técnicas",1506,6397,4254,4011.93,107604.53,2.067299,2063.16449650456
+João Pessoa - PB,N Atividades administrativas e serviços complementares,3233,31749,26337,25436.47,442305.504,1.340268,1337.58734241396
+João Pessoa - PB,"O Administração pública, defesa e seguridade social",67,83716,83716,82872.53,4134030.429,3.844937,3837.24668104507
+João Pessoa - PB,P Educação,860,21726,20798,21180.36,1328419.505,4.834238,4824.56935430893
+João Pessoa - PB,Q Saúde humana e serviços sociais,1357,29499,27484,28320.31,797564.822,2.170671,2166.33010563254
+João Pessoa - PB,"R Artes, cultura, esporte e recreação",306,1866,1484,1321.29,22735.588,1.326277,1323.62417381149
+João Pessoa - PB,S Outras atividades de serviços,1168,9508,8462,9067.89,149625.489,1.271819,1269.2757631599
+João Pessoa - PB,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Recife - PE,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",101,1214,1052,1065.76,25330.322,1.831924,1828.25993440578
+Recife - PE,B Indústrias extrativas,26,,,,,,
+Recife - PE,C Indústrias de transformação,2078,26351,23796,23730.25,734366.341,2.385265,2380.49403349992
+Recife - PE,D Eletricidade e gás,155,3482,3380,3541.32,436269.692,9.495459,9476.46840074409
+Recife - PE,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",79,8375,8294,8536.92,367352.119,3.31671,3310.07615248735
+Recife - PE,F Construção,2466,38049,34586,35061.65,939432.293,2.065186,2061.05595539461
+Recife - PE,G Comércio; reparação de veículos automotores e motocicletas,14615,116729,100817,103520.26,2422200.602,1.803478,1799.87109026551
+Recife - PE,"H Transporte, armazenagem e correio",1458,24677,23205,25494.58,936369.498,2.830906,2825.24453915604
+Recife - PE,I Alojamento e alimentação,2899,31811,28526,30249.07,543014.322,1.383647,1380.87989024253
+Recife - PE,J Informação e comunicação,1572,16362,14289,14311.27,822460.672,4.429585,4420.72615068135
+Recife - PE,"K Atividades financeiras, de seguros e serviços relacionados",1820,14174,12072,12400.56,903108.543,5.613384,5602.1573157242
+Recife - PE,L Atividades imobiliárias,1380,5159,2837,2640.23,66734.007,1.948191,1944.29468411697
+Recife - PE,"M Atividades profissionais, científicas e técnicas",4507,28333,21660,19630.02,746573.13,2.931418,2925.55495652538
+Recife - PE,N Atividades administrativas e serviços complementares,7234,113363,102904,92922.65,1833688.302,1.521003,1517.96086645928
+Recife - PE,"O Administração pública, defesa e seguridade social",156,102287,102282,102809.81,9349321.742,7.009252,6995.23319358786
+Recife - PE,P Educação,2000,84093,81920,82521.51,4275753.865,3.993665,3985.67771556214
+Recife - PE,Q Saúde humana e serviços sociais,3240,82440,76848,76596.15,2761876.246,2.779223,2773.66445863241
+Recife - PE,"R Artes, cultura, esporte e recreação",555,4884,4216,4344.28,117312.842,2.081392,2077.22908496477
+Recife - PE,S Outras atividades de serviços,2524,16857,14527,14650.48,342329.579,1.801021,1797.41855136907
+Recife - PE,U Organismos internacionais e outras instituições extraterritoriais,6,,,,,,
+Maceió - AL,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",38,312,251,244.97,5649.13,1.777439,1773.88440028763
+Maceió - AL,B Indústrias extrativas,12,98,88,90.67,7277.683,6.186651,6174.27781218451
+Maceió - AL,C Indústrias de transformação,920,12331,11242,11490.9,330500.118,2.216888,2212.45385478944
+Maceió - AL,D Eletricidade e gás,12,989,980,756.51,88155.476,8.981745,8963.78165726621
+Maceió - AL,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",67,3089,3008,2883.5,106230.868,2.839598,2833.91892865241
+Maceió - AL,F Construção,975,17920,16255,17009.94,320427.947,1.451957,1449.05294289013
+Maceió - AL,G Comércio; reparação de veículos automotores e motocicletas,7588,55154,46945,47951.5,928746.29,1.492867,1489.88086520114
+Maceió - AL,"H Transporte, armazenagem e correio",490,9150,8639,8911.24,281234.141,2.432518,2427.65265681751
+Maceió - AL,I Alojamento e alimentação,1533,15623,13822,13739.64,233559.689,1.310233,1307.6128576205
+Maceió - AL,J Informação e comunicação,506,3615,3032,3262.87,108401.26,2.560712,2555.59015882903
+Maceió - AL,"K Atividades financeiras, de seguros e serviços relacionados",576,4144,3473,3536.38,252037.111,5.493279,5482.2926486755
+Maceió - AL,L Atividades imobiliárias,419,2625,1945,1898.35,30125.282,1.223153,1220.70713230721
+Maceió - AL,"M Atividades profissionais, científicas e técnicas",1579,5913,3622,3667.3,86953.346,1.827536,1823.88103593295
+Maceió - AL,N Atividades administrativas e serviços complementares,1876,31903,30104,30461.11,501770.778,1.269655,1267.11574705735
+Maceió - AL,"O Administração pública, defesa e seguridade social",85,38274,38273,37858.76,3268058.042,6.65349,6640.18261965913
+Maceió - AL,P Educação,848,39616,38555,38622.74,1504082.958,3.001614,2995.61059305795
+Maceió - AL,Q Saúde humana e serviços sociais,1406,23988,21387,21015.57,626467.747,2.297649,2293.05351662161
+Maceió - AL,"R Artes, cultura, esporte e recreação",266,1423,1124,1200.96,27123.366,1.740769,1737.28747771014
+Maceió - AL,S Outras atividades de serviços,1259,6859,5837,6021,121339.211,1.553312,1550.20519208412
+Maceió - AL,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Aracaju - SE,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",20,,,,,,
+Aracaju - SE,B Indústrias extrativas,18,,,,,,
+Aracaju - SE,C Indústrias de transformação,711,7417,6476,6843.34,184001.594,2.072429,2068.28372830091
+Aracaju - SE,D Eletricidade e gás,9,1027,1020,1026.03,40891.029,3.071808,3065.66452173013
+Aracaju - SE,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",21,5854,5830,3154.68,143906.655,3.516023,3508.9906717346
+Aracaju - SE,F Construção,960,13394,12158,13495.36,276754.318,1.580651,1577.48987002256
+Aracaju - SE,G Comércio; reparação de veículos automotores e motocicletas,5984,40976,33831,34746.93,697826.8,1.547951,1544.85546249365
+Aracaju - SE,"H Transporte, armazenagem e correio",461,7767,7270,7186.51,181338.701,1.944906,1941.01599331996
+Aracaju - SE,I Alojamento e alimentação,1205,11845,10320,10475.5,171711.553,1.263429,1260.9022003723
+Aracaju - SE,J Informação e comunicação,452,3476,2918,2916.61,96584.653,2.552442,2547.33704276804
+Aracaju - SE,"K Atividades financeiras, de seguros e serviços relacionados",447,4430,3971,3949.77,274498.075,5.356654,5345.94078603603
+Aracaju - SE,L Atividades imobiliárias,457,1502,812,847.74,17353.187,1.577766,1574.61077507436
+Aracaju - SE,"M Atividades profissionais, científicas e técnicas",1554,6855,4665,4437.41,179497.33,3.117845,3111.60945756126
+Aracaju - SE,N Atividades administrativas e serviços complementares,1872,34271,32318,31193.4,552925.693,1.36625,1363.51746252042
+Aracaju - SE,"O Administração pública, defesa e seguridade social",81,33879,33878,33522.38,2937519.894,6.754171,6740.66306656123
+Aracaju - SE,P Educação,682,28392,27500,28159.76,1221636.812,3.343792,3337.1045229625
+Aracaju - SE,Q Saúde humana e serviços sociais,1593,25900,22897,22802.87,856164.602,2.893969,2888.18098504537
+Aracaju - SE,"R Artes, cultura, esporte e recreação",291,1578,1226,1199.35,24449.315,1.571256,1568.11317668866
+Aracaju - SE,S Outras atividades de serviços,1020,4859,4068,4119.1,91661.2,1.715178,1711.74808537339
+Aracaju - SE,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Salvador - BA,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",70,,,,,,
+Salvador - BA,B Indústrias extrativas,41,1595,1560,1739.76,366609.277,16.242027,16209.5424744704
+Salvador - BA,C Indústrias de transformação,2179,24125,21298,22614.65,669299.353,2.281165,2276.60236242368
+Salvador - BA,D Eletricidade e gás,86,2405,2296,2255.45,215286.911,7.357166,7342.45122498154
+Salvador - BA,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",78,14572,14463,14163.11,595338.846,3.239901,3233.42089739851
+Salvador - BA,F Construção,3013,45316,40650,42333.52,1181838.033,2.151789,2147.4854423416
+Salvador - BA,G Comércio; reparação de veículos automotores e motocicletas,19940,141204,118909,124579.94,2709568.859,1.676402,1673.04923865938
+Salvador - BA,"H Transporte, armazenagem e correio",1624,41393,39709,41610.79,1293769.726,2.396498,2391.70532820564
+Salvador - BA,I Alojamento e alimentação,4073,38514,33734,34747.05,612970.219,1.359714,1356.99448752318
+Salvador - BA,J Informação e comunicação,1570,14711,12523,13015.26,584290.446,3.460207,3453.28629032973
+Salvador - BA,"K Atividades financeiras, de seguros e serviços relacionados",1786,14624,12448,12864.23,970475.962,5.814697,5803.06765946528
+Salvador - BA,L Atividades imobiliárias,1888,6368,2863,2854.4,62594.419,1.690234,1686.8537372801
+Salvador - BA,"M Atividades profissionais, científicas e técnicas",6240,30645,21052,21676.87,660417.412,2.34827,2343.57355949523
+Salvador - BA,N Atividades administrativas e serviços complementares,8381,104578,94731,92295.89,1845117.37,1.540876,1537.79442816593
+Salvador - BA,"O Administração pública, defesa e seguridade social",145,96712,96703,96014.97,10383339.225,8.335357,8318.68615824258
+Salvador - BA,P Educação,2422,102068,99158,103716.12,6201148.884,4.608419,4599.20263711547
+Salvador - BA,Q Saúde humana e serviços sociais,7025,119604,104619,103871.13,4251699.44,3.15496,3148.64970735298
+Salvador - BA,"R Artes, cultura, esporte e recreação",983,6932,5644,5574.74,218702.033,3.023809,3017.76106288227
+Salvador - BA,S Outras atividades de serviços,3308,18914,16228,15782.06,417390.594,2.038474,2034.39657238857
+Salvador - BA,U Organismos internacionais e outras instituições extraterritoriais,5,,,,,,
+Belo Horizonte - MG,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",162,,,,,,
+Belo Horizonte - MG,B Indústrias extrativas,175,2029,1782,1818.76,246221.132,10.434606,10413.7363241566
+Belo Horizonte - MG,C Indústrias de transformação,5061,53240,45792,46559.15,1918055.876,3.175282,3168.93155678975
+Belo Horizonte - MG,D Eletricidade e gás,256,6428,6262,6545.15,826395.714,9.731831,9712.36733717685
+Belo Horizonte - MG,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",147,15940,15731,15931.01,831314.838,4.022058,4014.01387801334
+Belo Horizonte - MG,F Construção,7535,128358,116886,114297.42,3431433.663,2.31401,2309.38227315529
+Belo Horizonte - MG,G Comércio; reparação de veículos automotores e motocicletas,30971,208415,167327,172767.27,3938031.554,1.756887,1753.37321793559
+Belo Horizonte - MG,"H Transporte, armazenagem e correio",3162,50205,46178,48212.64,1659690.892,2.653337,2648.03027077227
+Belo Horizonte - MG,I Alojamento e alimentação,6684,56592,47585,48126.06,859291.69,1.376215,1373.46295892975
+Belo Horizonte - MG,J Informação e comunicação,4954,39508,32053,31769.74,2034602.059,4.936191,4926.31827305819
+Belo Horizonte - MG,"K Atividades financeiras, de seguros e serviços relacionados",6115,37889,29130,29087.84,2241183.937,5.93871,5926.83280658225
+Belo Horizonte - MG,L Atividades imobiliárias,4350,12637,5095,5262.41,128493.275,1.88201,1878.24553330567
+Belo Horizonte - MG,"M Atividades profissionais, científicas e técnicas",15684,71424,46359,42428.4,1917064.183,3.48262,3475.65488246987
+Belo Horizonte - MG,N Atividades administrativas e serviços complementares,19847,217532,195675,197174.74,4828255.698,1.887405,1883.63014685116
+Belo Horizonte - MG,"O Administração pública, defesa e seguridade social",99,176283,176277,175900.51,19077034.314,8.359299,8342.5805758039
+Belo Horizonte - MG,P Educação,4456,259788,254437,270770.64,10142498.757,2.887151,2881.37669607356
+Belo Horizonte - MG,Q Saúde humana e serviços sociais,6575,92728,80945,80865.16,3194124.385,3.044504,3038.41451336065
+Belo Horizonte - MG,"R Artes, cultura, esporte e recreação",1665,12328,9976,10074.03,524829.488,4.015514,4007.48251463645
+Belo Horizonte - MG,S Outras atividades de serviços,5465,33777,28466,28259.35,868727.076,2.369449,2364.70972235057
+Belo Horizonte - MG,U Organismos internacionais e outras instituições extraterritoriais,3,,,,,,
+Vitória - ES,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",26,86,52,54.55,724.299,1.023409,1021.36219417613
+Vitória - ES,B Indústrias extrativas,49,4662,4614,4785.1,666301.765,10.732627,10711.1621330958
+Vitória - ES,C Indústrias de transformação,601,4274,3426,4091.78,142184.073,2.678334,2672.97762455835
+Vitória - ES,D Eletricidade e gás,19,412,399,428.73,37127.345,6.674767,6661.41771134424
+Vitória - ES,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",23,2378,2357,2373.75,101412.912,3.292944,3286.35839105602
+Vitória - ES,F Construção,995,8150,6554,6886.11,169269.077,1.894653,1890.86410626162
+Vitória - ES,G Comércio; reparação de veículos automotores e motocicletas,4905,30246,23880,23960.03,577027.566,1.856245,1852.53256553326
+Vitória - ES,"H Transporte, armazenagem e correio",553,14303,13709,14373.27,735340.64,3.943293,3935.4068082896
+Vitória - ES,I Alojamento e alimentação,1247,9953,8313,8231.5,154431.16,1.446046,1443.15373868675
+Vitória - ES,J Informação e comunicação,851,7687,6431,6591.46,320671.638,3.749774,3742.27395401369
+Vitória - ES,"K Atividades financeiras, de seguros e serviços relacionados",1157,10050,8250,8218.96,526586.331,4.938315,4928.43873752322
+Vitória - ES,L Atividades imobiliárias,740,2802,1523,1457.66,31687.597,1.675557,1672.20576920438
+Vitória - ES,"M Atividades profissionais, científicas e técnicas",2882,12760,8149,7546.42,325122.455,3.320719,3314.07735262344
+Vitória - ES,N Atividades administrativas e serviços complementares,3516,24994,21185,21251.23,589657.869,2.138662,2134.38457987536
+Vitória - ES,"O Administração pública, defesa e seguridade social",94,68118,68118,70414.61,5023212.785,5.498509,5487.51151872514
+Vitória - ES,P Educação,755,13332,12337,12563.88,883333.138,5.419096,5408.25787281293
+Vitória - ES,Q Saúde humana e serviços sociais,2113,20523,15955,16039.54,507182.13,2.437239,2432.36464387383
+Vitória - ES,"R Artes, cultura, esporte e recreação",272,1428,1088,1088.99,20035.767,1.418104,1415.26813483489
+Vitória - ES,S Outras atividades de serviços,1465,8328,6999,6404.32,179616.616,2.161721,2157.39731450502
+Vitória - ES,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Rio de Janeiro - RJ,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",182,,,,,,
+Rio de Janeiro - RJ,B Indústrias extrativas,346,9393,9079,9111.95,2178474.533,18.427536,18390.680817709
+Rio de Janeiro - RJ,C Indústrias de transformação,6971,123668,113584,121654.85,9311094.414,5.899258,5887.4597424283
+Rio de Janeiro - RJ,D Eletricidade e gás,547,10909,10478,10406.29,1382809.07,10.24218,10221.6955765733
+Rio de Janeiro - RJ,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",302,29199,28764,29807.22,1639779.082,4.240235,4231.755006389
+Rio de Janeiro - RJ,F Construção,8683,99497,86011,91713.05,3110971.863,2.614514,2609.28546071772
+Rio de Janeiro - RJ,G Comércio; reparação de veículos automotores e motocicletas,53165,442625,369980,386002.14,10610859.402,2.118785,2114.54774318091
+Rio de Janeiro - RJ,"H Transporte, armazenagem e correio",6220,128815,121442,127088.11,6746483.859,4.091652,4083.46852310695
+Rio de Janeiro - RJ,I Alojamento e alimentação,13358,153886,133609,136675.42,2871558.585,1.619397,1616.15835475813
+Rio de Janeiro - RJ,J Informação e comunicação,11027,96398,79337,83393.87,7546477.478,6.974872,6960.92251790763
+Rio de Janeiro - RJ,"K Atividades financeiras, de seguros e serviços relacionados",10099,84455,72727,73728.39,7042754.167,7.362645,7347.92012328577
+Rio de Janeiro - RJ,L Atividades imobiliárias,6049,21970,11325,11415.82,497811.755,3.361121,3354.39871363397
+Rio de Janeiro - RJ,"M Atividades profissionais, científicas e técnicas",24618,126250,85235,85848.81,6080344.64,5.459087,5448.16892000644
+Rio de Janeiro - RJ,N Atividades administrativas e serviços complementares,37652,340928,307301,312205.52,8949069.801,2.209344,2204.92573190989
+Rio de Janeiro - RJ,"O Administração pública, defesa e seguridade social",298,280282,280276,286744.78,31864559.318,8.56522,8548.08916674424
+Rio de Janeiro - RJ,P Educação,8969,220636,208221,211394.76,10977630.879,4.002585,3994.57935730508
+Rio de Janeiro - RJ,Q Saúde humana e serviços sociais,15631,215899,188426,189994.86,8463886.144,3.433635,3426.76725529879
+Rio de Janeiro - RJ,"R Artes, cultura, esporte e recreação",5231,36383,28667,33570.83,1391902.795,3.195751,3189.35950553593
+Rio de Janeiro - RJ,S Outras atividades de serviços,14549,69418,53984,54492.56,1838547.708,2.600542,2595.34047894301
+Rio de Janeiro - RJ,U Organismos internacionais e outras instituições extraterritoriais,26,,,,,,
+São Paulo - SP,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",828,2986,1683,1725.61,126937.983,5.669895,5658.55565902448
+São Paulo - SP,B Indústrias extrativas,117,,,,,,
+São Paulo - SP,C Indústrias de transformação,30473,373235,332251,346622.2,21317329.798,4.740264,4730.7835442916
+São Paulo - SP,D Eletricidade e gás,526,6233,5502,5580.01,691699.799,9.554518,9535.40886954572
+São Paulo - SP,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",807,30737,29950,30846.38,1640104.83,4.098203,4090.00699595868
+São Paulo - SP,F Construção,30743,258870,218089,217842.65,8914584.522,3.154164,3147.85589930657
+São Paulo - SP,G Comércio; reparação de veículos automotores e motocicletas,161329,1035467,844341,871683.49,35786956.818,3.164405,3158.07614086375
+São Paulo - SP,"H Transporte, armazenagem e correio",21862,280856,257238,271510.95,12297611.359,3.491078,3484.09559370796
+São Paulo - SP,I Alojamento e alimentação,31652,281193,242203,247071.95,5779063.014,1.802852,1799.24636839281
+São Paulo - SP,J Informação e comunicação,46235,267258,204276,203986.2,20632392.4,7.796055,7780.46312786016
+São Paulo - SP,"K Atividades financeiras, de seguros e serviços relacionados",38395,298685,260237,265689.32,28276774.134,8.203173,8186.76667863862
+São Paulo - SP,L Atividades imobiliárias,22626,59788,26183,26221.66,1415457.608,4.160665,4152.34407209683
+São Paulo - SP,"M Atividades profissionais, científicas e técnicas",66173,297685,204295,197778.94,13418112.718,5.229227,5218.76857449651
+São Paulo - SP,N Atividades administrativas e serviços complementares,87437,1003390,911341,888688.33,29110006.854,2.524753,2519.70372612133
+São Paulo - SP,"O Administração pública, defesa e seguridade social",503,571701,571686,573357.38,42995260.914,5.779913,5768.35299933766
+São Paulo - SP,P Educação,22111,355477,332619,338153.24,20954453.705,4.77627,4766.71775858415
+São Paulo - SP,Q Saúde humana e serviços sociais,36641,480859,426540,427693.89,20153939.562,3.63206,3624.7958633002
+São Paulo - SP,"R Artes, cultura, esporte e recreação",7569,44758,35183,36083.13,1792230.729,3.828387,3820.73013706874
+São Paulo - SP,S Outras atividades de serviços,26132,115712,91124,91866.57,4196087.989,3.520572,3513.53053840854
+São Paulo - SP,U Organismos internacionais e outras instituições extraterritoriais,67,,,,,,
+Curitiba - PR,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",284,1081,607,649.92,40550.704,4.809109,4799.49058819074
+Curitiba - PR,B Indústrias extrativas,36,,,,,,
+Curitiba - PR,C Indústrias de transformação,5918,73209,65063,66879.63,3530739.987,4.069096,4060.958226225
+Curitiba - PR,D Eletricidade e gás,185,7256,7080,7521.48,732648.395,7.507899,7492.88289620578
+Curitiba - PR,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",174,12483,12246,12471.77,721485.596,4.458879,4449.96115226628
+Curitiba - PR,F Construção,7718,49792,38638,40076.28,1293194.214,2.487153,2482.17843572308
+Curitiba - PR,G Comércio; reparação de veículos automotores e motocicletas,36047,193429,147596,152400.05,4346532.92,2.198285,2193.8882969779
+Curitiba - PR,"H Transporte, armazenagem e correio",4476,42973,37608,39593.81,1300756.689,2.532182,2527.1174167415
+Curitiba - PR,I Alojamento e alimentação,6544,47870,39464,40541.93,852448.114,1.620652,1617.41021816558
+Curitiba - PR,J Informação e comunicação,5573,38959,31089,31734.55,1911460.535,4.642577,4633.29165749099
+Curitiba - PR,"K Atividades financeiras, de seguros e serviços relacionados",5682,35487,27985,28265.3,2071616.018,5.649133,5637.83431655395
+Curitiba - PR,L Atividades imobiliárias,4152,10434,3998,3965.53,121739.028,2.366218,2361.485253014
+Curitiba - PR,"M Atividades profissionais, científicas e técnicas",12660,45336,26707,27258.83,1161556.582,3.284424,3277.85551719176
+Curitiba - PR,N Atividades administrativas e serviços complementares,15320,144192,126492,127418.31,3371650.455,2.039562,2035.48239894009
+Curitiba - PR,"O Administração pública, defesa e seguridade social",133,97693,97693,97738.53,11009130.193,8.681871,8664.50691137167
+Curitiba - PR,P Educação,3816,154104,149447,145667.76,8114010.23,4.293369,4284.78225433633
+Curitiba - PR,Q Saúde humana e serviços sociais,6641,61957,51191,51232.26,2253729.302,3.390661,3383.8794630871
+Curitiba - PR,"R Artes, cultura, esporte e recreação",1524,8810,6910,6901.58,274949.256,3.070649,3064.50736921557
+Curitiba - PR,S Outras atividades de serviços,5123,20810,16465,16498.88,621392.59,2.902938,2897.13180531042
+Curitiba - PR,U Organismos internacionais e outras instituições extraterritoriais,6,,,,,,
+Florianópolis - SC,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",55,214,117,108.21,2321.66,1.653702,1650.39488743398
+Florianópolis - SC,B Indústrias extrativas,10,,,,,,
+Florianópolis - SC,C Indústrias de transformação,838,5956,4809,4714.53,169198.641,2.766206,2760.67393291019
+Florianópolis - SC,D Eletricidade e gás,223,3032,2810,2847.96,420653.226,11.384565,11361.7959737982
+Florianópolis - SC,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",43,3061,3014,2932.18,180190.318,4.736602,4727.129198176
+Florianópolis - SC,F Construção,1760,8984,6080,6944.09,238202.374,2.643972,2638.68405197247
+Florianópolis - SC,G Comércio; reparação de veículos automotores e motocicletas,7625,44585,35702,36086.73,953148.398,2.035819,2031.74705877927
+Florianópolis - SC,"H Transporte, armazenagem e correio",568,8944,8325,8903.18,339478.287,2.938955,2933.07721337942
+Florianópolis - SC,I Alojamento e alimentação,3046,22399,18398,17416.38,396642.819,1.755367,1751.85578615781
+Florianópolis - SC,J Informação e comunicação,1691,15590,12952,12947.48,751471.6,4.473562,4464.61455760563
+Florianópolis - SC,"K Atividades financeiras, de seguros e serviços relacionados",1203,8158,6625,6647.83,511739.464,5.933284,5921.4170870564
+Florianópolis - SC,L Atividades imobiliárias,1466,3411,1125,1117.23,36485.706,2.517134,2512.09936112597
+Florianópolis - SC,"M Atividades profissionais, científicas e técnicas",3616,14688,9087,8669.79,406476.008,3.613703,3606.47550064872
+Florianópolis - SC,N Atividades administrativas e serviços complementares,4866,51930,48148,45987.95,1124214.285,1.884218,1880.4495943628
+Florianópolis - SC,"O Administração pública, defesa e seguridade social",124,59972,59968,60853.54,6897930.036,8.736934,8719.45991587722
+Florianópolis - SC,P Educação,1113,40385,39040,54524.57,3376403.62,4.772965,4763.41868234111
+Florianópolis - SC,Q Saúde humana e serviços sociais,1546,27121,24263,24124.52,1617816.145,5.168882,5158.54391172263
+Florianópolis - SC,"R Artes, cultura, esporte e recreação",608,2797,2051,1980.09,69020.36,2.686695,2681.32178918052
+Florianópolis - SC,S Outras atividades de serviços,1814,8142,6778,6790.67,262816.404,2.983087,2977.12102952116
+Florianópolis - SC,U Organismos internacionais e outras instituições extraterritoriais,3,,,,,,
+Porto Alegre - RS,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",251,1429,1044,1079.99,53379.585,3.809619,3801.99994729296
+Porto Alegre - RS,B Indústrias extrativas,24,,,,,,
+Porto Alegre - RS,C Indústrias de transformação,3284,29414,24899,25925.25,1131165.935,3.36302,3356.29412371218
+Porto Alegre - RS,D Eletricidade e gás,106,2082,1982,2000.64,221721.848,8.54212,8525.03537329593
+Porto Alegre - RS,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",91,5017,4919,4969.25,324547.254,5.034,5023.93185784885
+Porto Alegre - RS,F Construção,4405,33511,26303,27021.42,873212.765,2.490795,2485.81357649997
+Porto Alegre - RS,G Comércio; reparação de veículos automotores e motocicletas,22654,131599,103346,108672.38,3222604.034,2.285672,2281.10047833681
+Porto Alegre - RS,"H Transporte, armazenagem e correio",2827,36015,32827,36031.69,1356595.839,2.901964,2896.15963272672
+Porto Alegre - RS,I Alojamento e alimentação,4546,35698,29710,30946.91,672433.68,1.674782,1671.43238831624
+Porto Alegre - RS,J Informação e comunicação,4120,30111,24152,24496.51,1431992.322,4.505703,4496.69179562564
+Porto Alegre - RS,"K Atividades financeiras, de seguros e serviços relacionados",4181,27841,21951,22629.73,1954880.75,6.658356,6645.03917226111
+Porto Alegre - RS,L Atividades imobiliárias,2803,8996,4370,4413.7,160663.757,2.8057,2800.08848323664
+Porto Alegre - RS,"M Atividades profissionais, científicas e técnicas",10624,37369,20669,20619.12,927318.789,3.466451,3459.5178910866
+Porto Alegre - RS,N Atividades administrativas e serviços complementares,17370,106416,95341,93256.91,2506504.819,2.071637,2067.49358304923
+Porto Alegre - RS,"O Administração pública, defesa e seguridade social",116,88055,88054,88943.21,12110480.296,10.494812,10473.8226491333
+Porto Alegre - RS,P Educação,2952,108883,105341,107956.17,4703214.723,3.357944,3351.22807638579
+Porto Alegre - RS,Q Saúde humana e serviços sociais,4936,76239,67842,67407.47,4119884.568,4.710892,4701.46999343636
+Porto Alegre - RS,"R Artes, cultura, esporte e recreação",1432,8080,6247,6265.45,402284.261,4.94888,4938.98174174978
+Porto Alegre - RS,S Outras atividades de serviços,4355,18812,14781,14893.47,511607.816,2.647692,2642.3961229059
+Porto Alegre - RS,U Organismos internacionais e outras instituições extraterritoriais,6,,,,,,
+Campo Grande - MS,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",358,1647,1054,1000.46,33860.609,2.608682,2603.46463703619
+Campo Grande - MS,B Indústrias extrativas,22,140,115,111,2978.517,2.068251,2064.11434511435
+Campo Grande - MS,C Indústrias de transformação,1282,17797,16296,16515.72,410742.383,1.916894,1913.06027972604
+Campo Grande - MS,D Eletricidade e gás,25,859,849,897.77,61171.309,5.251807,5241.30379461589
+Campo Grande - MS,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",80,4218,4136,4243.64,172801.405,3.138592,3132.31465657567
+Campo Grande - MS,F Construção,1668,14940,12708,13472.24,326540.632,1.868201,1864.464272745
+Campo Grande - MS,G Comércio; reparação de veículos automotores e motocicletas,9832,63020,51649,52587.14,1296169.829,1.899803,1896.0029288822
+Campo Grande - MS,"H Transporte, armazenagem e correio",1330,14988,13624,14031.69,400790.439,2.201575,2197.17181388919
+Campo Grande - MS,I Alojamento e alimentação,1563,11776,9911,9937.1,188245.538,1.460129,1457.20844109448
+Campo Grande - MS,J Informação e comunicação,704,6105,5276,5260,175184.923,2.567066,2561.9321877742
+Campo Grande - MS,"K Atividades financeiras, de seguros e serviços relacionados",761,5938,5138,5127.19,326651.111,4.910558,4900.7367658428
+Campo Grande - MS,L Atividades imobiliárias,655,1945,902,863.35,19260.99,1.719562,1716.12279537223
+Campo Grande - MS,"M Atividades profissionais, científicas e técnicas",2521,9765,6368,6336.57,204222.022,2.484131,2479.16243451778
+Campo Grande - MS,N Atividades administrativas e serviços complementares,2453,30407,28027,28029.63,579759.104,1.59425,1591.06110761527
+Campo Grande - MS,"O Administração pública, defesa e seguridade social",110,48578,48576,50978.48,4839842.751,7.31763,7302.99522917845
+Campo Grande - MS,P Educação,941,31064,30138,38805.91,2238270.715,4.445707,4436.81569082172
+Campo Grande - MS,Q Saúde humana e serviços sociais,1491,27359,25108,25094.25,1172170.591,3.600333,3593.13263151764
+Campo Grande - MS,"R Artes, cultura, esporte e recreação",414,1632,1184,1170.82,32313.64,2.127266,2123.01174850499
+Campo Grande - MS,S Outras atividades de serviços,1646,6446,5210,5352.86,143827.422,2.071009,2066.86665561099
+Campo Grande - MS,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Cuiabá - MT,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",178,2642,2398,2452.39,239638.103,7.53169,7516.62673178786
+Cuiabá - MT,B Indústrias extrativas,58,700,632,659.36,28870.121,3.374832,3368.08198626174
+Cuiabá - MT,C Indústrias de transformação,1078,11264,9985,10210.33,274541.986,2.072503,2068.35766402186
+Cuiabá - MT,D Eletricidade e gás,74,2998,2925,2943.25,134789.865,3.52985,3522.78982548073
+Cuiabá - MT,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",70,1459,1381,1448.75,52854.759,2.812009,2806.38529236079
+Cuiabá - MT,F Construção,1507,12171,10090,10569.15,283530.159,2.067689,2063.55404462698
+Cuiabá - MT,G Comércio; reparação de veículos automotores e motocicletas,8438,53334,44023,45272.02,1236303.643,2.104851,2100.64141672426
+Cuiabá - MT,"H Transporte, armazenagem e correio",1032,10766,9772,10224.87,302568.351,2.280824,2276.26253815076
+Cuiabá - MT,I Alojamento e alimentação,1451,11697,10044,10034.89,184656.012,1.418329,1415.49220922049
+Cuiabá - MT,J Informação e comunicação,633,5841,5076,5286.48,222960.146,3.250774,3244.2722684165
+Cuiabá - MT,"K Atividades financeiras, de seguros e serviços relacionados",979,5904,4711,4768.34,299409.224,4.839763,4830.08316714638
+Cuiabá - MT,L Atividades imobiliárias,491,1486,742,782.68,20068.968,1.976364,1972.41116322222
+Cuiabá - MT,"M Atividades profissionais, científicas e técnicas",2259,8058,5093,5233.11,147129.971,2.167042,2162.70823218375
+Cuiabá - MT,N Atividades administrativas e serviços complementares,2425,26936,24387,24365.8,514600.388,1.627854,1624.59862720572
+Cuiabá - MT,"O Administração pública, defesa e seguridade social",90,47175,47170,47226.07,5169943.774,8.437817,8420.94170900489
+Cuiabá - MT,P Educação,835,41615,40779,60515.56,3268647.174,4.163198,4154.87187097004
+Cuiabá - MT,Q Saúde humana e serviços sociais,1610,21013,18566,18425.21,941928.939,3.940323,3932.4421393715
+Cuiabá - MT,"R Artes, cultura, esporte e recreação",240,947,672,707.5,15245.603,1.660903,1657.58119054091
+Cuiabá - MT,S Outras atividades de serviços,1222,7478,6606,6764.23,201618.753,2.297411,2292.81601100995
+Cuiabá - MT,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Goiânia - GO,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",395,2075,1401,1403.61,37281.849,2.047279,2043.18474395419
+Goiânia - GO,B Indústrias extrativas,51,212,162,146.32,7102.932,3.741623,3734.14013542499
+Goiânia - GO,C Indústrias de transformação,5279,44598,38351,39046.42,1031140.023,2.03546,2031.38887784571
+Goiânia - GO,D Eletricidade e gás,48,1023,974,966.26,125285.58,9.993858,9973.87070528875
+Goiânia - GO,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",144,12667,12479,12757.67,799795.623,4.832076,4822.41194753973
+Goiânia - GO,F Construção,4138,37240,30916,31542.61,844505.395,2.063626,2059.49835671615
+Goiânia - GO,G Comércio; reparação de veículos automotores e motocicletas,24495,133408,105712,108330.92,2757093.109,1.961666,1957.74286148121
+Goiânia - GO,"H Transporte, armazenagem e correio",1931,24707,22810,23773.88,716322.569,2.322387,2317.74266871554
+Goiânia - GO,I Alojamento e alimentação,3546,26104,22092,22823.97,464636.042,1.56909,1565.95167273704
+Goiânia - GO,J Informação e comunicação,1733,12719,10492,10562.65,428348.103,3.12572,3119.46851187184
+Goiânia - GO,"K Atividades financeiras, de seguros e serviços relacionados",3024,15927,11663,11687.56,778047.561,5.131075,5120.81327365296
+Goiânia - GO,L Atividades imobiliárias,2018,6073,2686,2614.97,70787.553,2.08649,2082.31696142418
+Goiânia - GO,"M Atividades profissionais, científicas e técnicas",5807,21050,13482,13397.53,446265.581,2.567407,2562.27242001956
+Goiânia - GO,N Atividades administrativas e serviços complementares,7465,73683,66988,66360.24,1471457.408,1.709094,1705.67543734946
+Goiânia - GO,"O Administração pública, defesa e seguridade social",137,73297,73296,72616.37,7917559.691,8.40394,8387.13162271601
+Goiânia - GO,P Educação,2106,95612,93427,93673.22,4251132.005,3.497963,3490.96736752264
+Goiânia - GO,Q Saúde humana e serviços sociais,3196,59619,54346,54196.95,2300252.182,3.271348,3264.80504047666
+Goiânia - GO,"R Artes, cultura, esporte e recreação",830,4312,3349,3330.18,126795.963,2.934701,2928.83135908108
+Goiânia - GO,S Outras atividades de serviços,2852,16702,14291,14415.59,582632.056,3.115215,3108.98481862612
+Goiânia - GO,U Organismos internacionais e outras instituições extraterritoriais,,,,,,,
+Brasília - DF,"A Agricultura, pecuária, produção florestal, pesca e aquicultura",263,1809,1496,1617.83,54097.528,2.577334,2572.17897287868
+Brasília - DF,B Indústrias extrativas,59,,,,,,
+Brasília - DF,C Indústrias de transformação,3388,30429,26393,26640.96,772075.372,2.233757,2229.28953126198
+Brasília - DF,D Eletricidade e gás,78,2838,2783,2800.49,1211973.871,33.356873,33290.1596890874
+Brasília - DF,"E Água, esgoto, atividades de gestão de resíduos e descontaminação",172,6982,6770,7752.07,509973.519,5.070561,5060.42027881188
+Brasília - DF,F Construção,5402,54345,47490,47432.38,1486239.777,2.415128,2410.29728409807
+Brasília - DF,G Comércio; reparação de veículos automotores e motocicletas,30969,198514,162927,164705.8,3948274.511,1.847671,1843.97528152061
+Brasília - DF,"H Transporte, armazenagem e correio",2487,49713,47232,51036.85,2248458.577,3.395683,3388.8915965018
+Brasília - DF,I Alojamento e alimentação,7298,63163,54472,55416.92,1026349.711,1.42751,1424.65474027122
+Brasília - DF,J Informação e comunicação,3835,40882,36143,37676.06,2600729.986,5.320542,5309.90110880041
+Brasília - DF,"K Atividades financeiras, de seguros e serviços relacionados",3027,57792,54767,54904.89,6440385.941,9.041219,9023.13624804359
+Brasília - DF,L Atividades imobiliárias,2493,8490,5032,5212.61,275488.194,4.073558,4065.4105214972
+Brasília - DF,"M Atividades profissionais, científicas e técnicas",9232,40775,28472,28054.75,1795737.876,4.933585,4923.71818566306
+Brasília - DF,N Atividades administrativas e serviços complementares,11624,152722,141378,145375.53,3689449.461,1.956124,1952.21165963975
+Brasília - DF,"O Administração pública, defesa e seguridade social",311,429898,429893,430976.14,47566485.061,8.506951,8489.93726034971
+Brasília - DF,P Educação,3830,96338,92056,101918.87,7211967.349,5.454127,5443.21889708791
+Brasília - DF,Q Saúde humana e serviços sociais,8288,113356,100993,97834.05,5868542.178,4.623451,4614.2045779012
+Brasília - DF,"R Artes, cultura, esporte e recreação",1468,11895,10216,9988.34,268742.838,2.073813,2069.6658303582
+Brasília - DF,S Outras atividades de serviços,6670,30833,25030,25195.52,1250122.052,3.824329,3816.6799006026
+Brasília - DF,U Organismos internacionais e outras instituições extraterritoriais,126,,,,,,
